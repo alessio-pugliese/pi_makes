@@ -1,18 +1,23 @@
 ---
 title: "About"
-image: profile.jpg
+image: about_img.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/alessiop86
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/alessiopugliese/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/alessio-pugliese
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.uno/@ale_pi
 ---
 
-About this blog
+In questo spazio virtuale, **pi_makes**, racconto della creazione di cose, di oggetti reali o digitali. Mi piace costruire con le mie mani, progettare, realizzare. Mi interesso anche di informartica e programmazione in ambito scientifico, ed in questo mondo creo oggetti non reali, che però hanno quasi sempre un riflesso nel mondo che ci circonda.
+
+Sono ingegnere 💻, lavoro ad Arpae Emilia-Romagna dove mi occupo di modellistica idrologica e idraulica 💧-\>⛰️-\>🏖️, vivo a Bologna 🎓 dal 2009.

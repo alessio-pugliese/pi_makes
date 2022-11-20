@@ -16,5 +16,8 @@
   },
   "builds.qmd": {
     "builds.html": "715cf2a0"
+  },
+  "posts/guitar-bluid-part1/index.qmd": {
+    "index.html": "f159a473"
   }
 }

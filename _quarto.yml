@@ -7,9 +7,11 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/alessio-pugliese
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/alessiop86
+      - icon: mastodon
+        href: https://mastodon.uno/@ale_pi
 format:
   html:
     theme: cosmo

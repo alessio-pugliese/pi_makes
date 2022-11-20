@@ -1,12 +1,24 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-11-12"
+title: "Ciao mondo!"
+author: "Alessio"
+date: "2022-11-20"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Ciao mondo! (lo so non suona figo come Hello world!). In questo sito a forma di blog (spero di aver fatto la scelta giusta nel layout) voglio provare a tenere traccia delle cose, degli oggetti, reali o digitali che costruisco e documentarne il processo di creazione.
 
-![](thumbnail.jpg)
+![Versante nord Cima Murelle e Block House - Parco Nazionale della Majella (Abruzzo)](welcome.png)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Sebbene l'idea c'è sempre stata, la scintilla è scattata quando ho capito che con `R` ([R-project](https://www.r-project.org/)), software che ho usato per anni nel mio lavoro di ricerca all'università e che continuo ancora ad utilizzare in Arpae, è possibile creare siti web statici, blog, ma addirittura libri, documentazione, e altro. Quindi ho detto "ora o mai più", questo blog è infatti realizzato con [Quarto](https://quarto.org/) interamente in Rstudio 😲.
+
+L'idea è quella di documentare le costruzioni, gli hack, le modifiche, le riparazioni, ecc. ma anche qualche cosa di più scientifico, come ad es. script, grafici, mappe, nuovi pacchetti, software realizzato da me principalemente nel modo R e Python. Vedremo se si aggiungerà qualcos'altro per strada.
+
+Perché **pi_makes**?
+
+1.  I. mi chiama (non sempre è così cortese) "**pi**" perché prima lettera del mio cognome.
+2.  **makes** perché questo blog dovrebbe teoricamente essere una raccolta di mie creazioni, di oggetti, ma non posso sapere ora cosa succederà in futuro a questo sito, chissà se avrà ancora senso 🤷.
+3.  perché in trigonometria ero fortissimo... viva il $\pi$.
+
+Il senso di questo oggetto digitale è quello di tenermi impegnato in un percorso di creazione e miglioramento continuo, raccontare quello che riesco a realizzare per tenerne traccia in futuro. Un altro motivo, che sembra stupido ma probabilmente è uno dei motivi per cui tutto è iniziato, è tenermi lontano da YouTube nei weekend, impegnando il tempo in modo più produttivo, cioè scrivere.
+
+Infine, non conoscendo ancora pienamente tutte le funzioni di Quarto è probabile che migliorerò alcuni aspetti grafici del sito, o introdurrò nuove funzioni (tipo inserire commenti nei vari post). Devo dire che fin da subito l'interfaccia mi sembra moooolto figa e intuitiva. Magari, chissà, potrei fare dei tutorial su come creare un blog o sito web statico con R una volta che la mia posizione sulla curva di apprendimento si sarà allontanata dall'origine.

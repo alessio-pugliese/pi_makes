@@ -1,0 +1,41 @@
+---
+title: "Tele-novela-parte1"
+toc: true
+toc-depth: 4
+author: "Alessio"
+date: "2022-11-20"
+categories: [makes, guitar, music]
+image: "body2.jpg"
+---
+
+# Ho iniziato un corso di liuteria elettrica! 🎸
+
+Finalmente ho deciso! Dopo tanto tempo e i soliti rimandi che mi contraddistinguono ad ottobre 2022 inizio un corso di liuteria elettrica. Dopo le ore ore spese a guardare video YouTube e dopo aver cercato un po' ovunque in rete possibilità di corsi "fisicamente basati" nelle vicinanze di Bologna, alla fine ho trovato questo corso alla vecchia, ovvero per passaparola.
+
+Il maestro liutaio è [Marco Pontillo](https://www.liuteriamarcopontillo.com/home "liutaio") e il fatto che non mi abbia ancora insultato, vista la mia goffaggine con attrezzi manuali, è sicuramente un punto a suo favore.
+
+Il corso durerà all'incirca un anno e il mio obiettivo è quello di raccontare e documentare le fasi della costruzione di una chitarra elettrica, nella speranza che il prodotto finale sia di qualità accettabile, o per lo meno che emetta qualche suono.
+
+## Scelta del modello, dei materiali e fasi preliminari
+
+Al primo giorno di corso ci si conosce tra i corsisti e con Marco. Alcuni di loro sono già avanti con il lavoro fatto nel corso dell'anno precedente, anche se non tutti allineati con le fasi della lavorazione: c'è chi deve completare il corpo, chi il manico, chi le meccaniche, chi l'elettronica.
+
+La prima cosa che viene chiesta è che tipo di chitarra vogliamo realizzare tra quelle compatibili con un corso per principianti. E qui iniziano i primi dubbi, avevo in mente di fare una telecaster, ma poi in laboratorio vedo il corpo di una Jaguar e mi viene in mente quella volta in cui io e Kurt.... mmmm, vabbè, torniamo al body. Il maestro suggerisce come prima chitarra di scegliere tra una stratocaster e una telecaster, anche se lui, sostanzialmente, raccomanda di inizare con una tele perché richiede meno lavorazioni e quindi meno possibilità di sbagliare (vedremo se la statistica mi tradirà come sempre).
+
+#### Modello
+
+Ho scelto alla fine una [Telecaster '70s vintera](https://www.fender.com/it-IT/electric-guitars/telecaster/vintera-70s-telecaster-custom/0149722306.html), che dovrebbe in linea teorica essere così ⬇️
+
+![](images/paste-81B62275.png)
+
+ma sicuramente la statistica, che è il termine scientifico di "sfiga", imporrà variazioni e "personalizzazioni" nel percorso.
+
+Nel suo laboratorio Marco riesce anche a fornire un servizio di verniciatura a spruzzo con la finitura a piacimento, io ho deciso di verniciarla nera così come in foto, non so dire ora se verrà più lucida o opaca.
+
+Nel mio perenne cazzeggiare su YouTube scopro che Chris Shiflett, chitarrista dei Foo Fighters, ne possiede una simile, per cui mi rincuora sapere che è perfetta per chi non sa suonare! Inoltre ha una pedaliera terribile, il video lo trovate [qui](https://www.youtube.com/watch?v=7JbRoF2g7Fg "shiflett").
+
+#### Materiali
+
+Altra scelta che viene fatta dal corsista è il tipo di materiale per il corpo e per il manico. Altre cose, tipo le meccaniche, il ponte, i pickup e elettronica in questa fase non vengono minimamente presi in considerazione.
+
+-   I tipo di legno usato per il corpo sono sostanzialmente due o tre: frassino americano, okoume
