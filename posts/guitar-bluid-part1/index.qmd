@@ -3,8 +3,8 @@ title: "Tele-novela-parte1"
 toc: true
 toc-depth: 4
 author: "Alessio"
-date: "2022-11-20"
-categories: [makes, guitar, music]
+date: "2022-11-26"
+categories: [build, guitar, music]
 image: "body2.jpg"
 ---
 
@@ -22,7 +22,7 @@ Al primo giorno di corso ci si conosce tra i corsisti e con Marco. Alcuni di lor
 
 #### Modello
 
-La prima cosa che viene chiesta è che tipo di chitarra vogliamo realizzare tra quelle compatibili con un corso per principianti. E qui iniziano i primi dubbi, avevo in mente di fare una telecaster, ma poi in laboratorio vedo il corpo di una Jaguar e mi viene in mente quella volta in cui io e Kurt.... mmmm, vabbè, torniamo al body. Il maestro suggerisce come prima chitarra di scegliere tra una stratocaster e una telecaster, anche se lui, sostanzialmente, raccomanda di inizare con una tele perché richiede meno lavorazioni e quindi meno possibilità di sbagliare (vedremo se la statistica mi tradirà come sempre).
+La prima cosa che viene chiesta è la tipologia di chitarra che vogliamo realizzare tra quelle compatibili in un corso per principianti. E qui iniziano i primi dubbi, avevo in mente di fare una telecaster, ma poi in laboratorio vedo il corpo di una Jaguar e mi viene in mente quella volta in cui io e Kurt.... mmmm, vabbè, torniamo al body. Il maestro suggerisce come prima chitarra di scegliere tra una stratocaster e una telecaster, anche se lui, sostanzialmente, raccomanda di inizare con una tele perché richiede meno lavorazioni e quindi meno possibilità di sbagliare (vedremo se la statistica mi tradirà come sempre).
 
 Ho scelto alla fine una [Telecaster '70s vintera](https://www.fender.com/it-IT/electric-guitars/telecaster/vintera-70s-telecaster-custom/0149722306.html), che dovrebbe in linea teorica essere così ⬇️
 
