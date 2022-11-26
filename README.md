@@ -4,4 +4,4 @@
 
 At the moment posts will be published in Italian only.
 
-This website is made with [Quarto](https://quarto.org/) in Rstudio.
+This website is made with [Quarto](https://quarto.org/) in Rstudio and served on GitHub pages [**pi_makes**](https://alessio-pugliese.github.io/pi_makes/).
