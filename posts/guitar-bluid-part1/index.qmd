@@ -3,7 +3,7 @@ title: "Tele-novela-parte1"
 toc: true
 toc-depth: 4
 author: "Alessio"
-date: "2022-11-26"
+date: "2022-11-19"
 categories: [build, guitar, music]
 image: "body2.jpg"
 ---
@@ -38,28 +38,30 @@ Nel mio perenne cazzeggiare su YouTube scopro che Chris Shiflett, chitarrista de
 
 Altra scelta che viene fatta dal corsista è il tipo di materiale per il corpo e per il manico. Altre cose, tipo le meccaniche, il ponte, i pickup e elettronica in questa fase non vengono minimamente presi in considerazione.
 
--   I tipi di legno usato per il corpo sono sostanzialmente due o tre: frassino americano, okoume, pioppo
+-   I tipi di legno usato per il corpo sono sostanzialmente due o tre: ontano americano (*alder*), frassino (*ash*), okoume, pioppo
 -   nel caso del manico: acero con/senza tastiera in palissandro
 -   verniciatura del corpo si/no (aspetto importante)
 
-La decisione sulla verniciatura determina anche indirettamente il tipo di materiale usato per il corpo. Se, infatti, come nel mio caso si vuole ottenere un colore completamente coprente, non ha senso utilizzare dei materiali pregiati. In questo caso il frassino americano (in inglese *alder*) va benissimo. Molti corsisti, invece, scelgono il corpo in legno naturale. In questo caso vale la pena soffermarsi di più sulla scelta. Alcuni ad es. fanno un laminato alder + pioppo, quest'ultimo quando si aggiunge la finitura trasparente tira fuori delle venature pazzesche creando un effetto tridimensionale, decisamente psichedelico, infatti è il preferito dei nostalgici floydiani (tipicamente over '60).
+La decisione sulla verniciatura determina anche indirettamente il tipo di materiale usato per il corpo. Se, infatti, come nel mio caso si vuole ottenere un colore completamente coprente, non ha senso utilizzare dei materiali pregiati. In questo caso ontano americano va benissimo. Molti corsisti, invece, scelgono il corpo con finitura legno naturale. In questo caso vale la pena soffermarsi di più sulla scelta. Alcuni ad es. fanno un laminato *alder* + pioppo, quest'ultimo quando si aggiunge la finitura trasparente tira fuori delle venature pazzesche creando un effetto tridimensionale, decisamente psichedelico, infatti è il preferito dei nostalgici floydiani (tipicamente over '60).
 
 #### Ventaura e incollaggio dei pezzi
 
-Una volta scelto il materiale per il corpo, nel mio caso *alder*, si sceglie l'asse di legno grezzo dal quale ricavare poi pezzi da unire. Anche in questo caso la scelta della verniciatura, se coprente o meno, gioca un ruolo determinante. Solitamente i pezzi da unire sono 2, con giunzione lungo l'asse principale ($- \cdot -$). Questa è una regola da rispettare nel caso in cui la verniciatura è trasparente e si vedranno le venature del legno. In questo caso, oltre a rispettare la regola dei due pezzi, bisogna studiare bene le venature per capire quale figura può venire fuori, anche se di fatto è una mera questione di gusto.
+Una volta scelto il materiale per il corpo, nel mio caso *alder*, si sceglie l'asse di legno grezzo dal quale ricavare poi pezzi da unire. Anche in questo caso la scelta della verniciatura, se coprente o meno, gioca un ruolo determinante. Solitamente i pezzi da unire sono 2 (v. giunto vicino l'asse principale $> | <$). Questa è una regola da rispettare nel caso in cui la verniciatura è trasparente e si vedranno le venature del legno. In questo caso, oltre a rispettare la regola dei due pezzi, bisogna studiare bene le venature per capire quale figura può venire fuori, anche se di fatto è una mera questione di gusto.
 
 ![Unione di 2 o 3 pezzi di frassino](images/incollaggio-parti.jpg)
 
-Può succedere che la larghezza di partenza dell'asse grezzo non sia sufficente a coprire la sagoma del corpo (+ qualche mm di margine) ad unione completata. In questo caso si può pensare si unire un ulteriore pezzetto (pezzo 3 in figura) per raggiungere la larghezza necessaria. Questa operazione è fattibile quando il corpo va verniciato e le giunzioni verranno completamente coperte. Secondo Marco questa cosa la fa anche Fender con chitarre costosissime... 🤷 mi fido.
+Può succedere che la larghezza di partenza dell'asse grezzo non sia sufficente a coprire la sagoma del corpo (+ qualche mm di margine) ad unione completata. In questo caso si può pensare di unire un ulteriore pezzetto (pezzo 3 in figura) per raggiungere la larghezza necessaria. Questa operazione è fattibile quando il corpo va verniciato e le giunzioni verranno completamente coperte. Secondo Marco questa cosa la fa anche Fender con chitarre costosissime... 🤷 mi fido.
+
+I pezzi da giuntare vengono prima tagliati a lunghezza e poi piallati sia di costa che di faccia fino a raggiungere uno spessore di circa qualche mm in più rispetto allo spessore finale, che per le fender è pari a 45 mm (nel sistema imperiale si usa solitamente uno spessore del body di 1 pollice e 3/4, pari esattamente a 44.45 mm). In questo caso le operazioni di taglio e sgrossatura sono state eseguite con attrezzi professionali, cioè una sega a nastro, una piallatrice e una levigatrice a nastro, tuttavia le stesse lavorazioni possono essere fatte con strumenti obbisticie e manuali... "seeeee dicono tutti così".
 
 ***💡Tip*** ***da falegname Pro***
 
-Bisogna sempre tenere a mente l'evoluzione nel tempo del legno e dei movimenti che si possono creare tra le parti incollate. Infatti, quello che si fa solitamente per stabilizzare parti giuntate è invertire le fibre in modo che gli anelli di accrescimento siano concavi/convessi in modo alternato. Anche questo aspetto influenza la scelta dei pezzi da incollare e le venature che ne vengono fuori.
+Qunado si incollano del legno massello, bisogna sempre tenere a mente l'evoluzione nel tempo del legno e dei movimenti che si possono creare tra le parti incollate. Infatti, quello che si fa solitamente per stabilizzare parti giuntate è invertire le fibre in modo che gli anelli di accrescimento siano concavi/convessi in modo alternato. Anche questo aspetto influenza la scelta dei pezzi da incollare e le venature che ne vengono fuori.
 
 ![](images/orientamento-anelli.png){width="825"}
 
 #### Colla
 
-Una cosa importante nell'incollaggio dei pezzi è il tipo di colla da usare. La tipica colla vinillica (es. Vinavil) sembra che non vada bene perché una volta asciutta resta un po' gommosa. Quella che usa Marco è una famossissima colla americana, la Titebond. Quest'utlima, a differenza dalla Vinavil è una colla alifatica e durante il "tiraggio" la colla di orienta lungo le fibre del legno risultando in un'unione molto forte, duratura, che non teme l'umidità. La versione usata Titebond è quella classica in confezione rossa.
+Un dettaglio importante che ho imparato è che nell'incollaggio dei pezzi il tipo di colla da usare è molto importante. La tipica colla vinillica (es. Vinavil) sembra che non vada bene perché una volta asciutta resta un po' gommosa. Quella che usa Marco è una famossissima colla americana, la Titebond. Quest'utlima, a differenza dalla Vinavil è una colla alifatica e durante il "tiraggio" la colla di orienta lungo le fibre del legno risultando in un'unione molto forte, duratura, che non teme l'umidità. La versione usata Titebond è quella classica in confezione rossa.
 
 ![](images/paste-E8B226BE.png){width="350"}
