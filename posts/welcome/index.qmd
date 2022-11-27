@@ -1,7 +1,7 @@
 ---
 title: "Ciao mondo!"
 author: "Alessio"
-date: "2022-11-12"
+date: "11-12-2022"
 categories: [news]
 ---
 

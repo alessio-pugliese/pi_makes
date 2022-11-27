@@ -4,6 +4,7 @@ project:
 
 website:
   title: "pi_makes"
+  favicon: favicon.ico
   navbar:
     right:
       - about.qmd

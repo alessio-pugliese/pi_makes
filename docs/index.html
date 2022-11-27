@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.ico" rel="icon">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -70,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -165,124 +166,109 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="build,guitar,music" data-listing-date-sort="1669417200000" data-listing-file-modified-sort="1669566837766" data-listing-reading-time-sort="4.27">
-<div class="thumbnail">
-<p><a href="./posts/guitar-bluid-part2/index.html"> <img src="./posts/guitar-bluid-part2/images/morsa.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/guitar-bluid-part2/index.html">
-<h3 class="no-anchor listing-title">
-Tele-novela-parte2
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('build'); return false;">
-build
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('guitar'); return false;">
-guitar
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('music'); return false;">
-music
-</div>
-</div>
-<a href="./posts/guitar-bluid-part2/index.html">
-<div class="listing-description">
-Insomma tutto l’entusiasmo iniziale si è subito affievolito dopo aver passato giorni ad usare le raspe. E non è ancora finita… ma andiamo con ordine.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/guitar-bluid-part2/index.html">
-<div class="listing-date">
-Nov 26, 2022
-</div>
-<div class="listing-author">
-Alessio
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="build,guitar,music" data-listing-date-sort="1668812400000" data-listing-file-modified-sort="1669559049827" data-listing-reading-time-sort="5.23">
-<div class="thumbnail">
-<p><a href="./posts/guitar-bluid-part1/index.html"> <img src="./posts/guitar-bluid-part1/body2.jpg" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/guitar-bluid-part1/index.html">
-<h3 class="no-anchor listing-title">
-Tele-novela-parte1
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('build'); return false;">
-build
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('guitar'); return false;">
-guitar
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('music'); return false;">
-music
-</div>
-</div>
-<a href="./posts/guitar-bluid-part1/index.html">
-<div class="listing-description">
-Finalmente ho deciso! Dopo tanto tempo e i soliti rimandi che mi contraddistinguono ad ottobre 2022 inizio un corso di liuteria elettrica. Dopo le ore ore spese a guardare video YouTube e dopo aver cercato un po’ ovunque in rete possibilità di corsi “fisicamente basati” nelle vicinanze di Bologna, alla fine ne ho trovato uno coi vecchi metodi, ovvero tramite passaparola.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/guitar-bluid-part1/index.html">
-<div class="listing-date">
-Nov 19, 2022
-</div>
-<div class="listing-author">
-Alessio
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="news" data-listing-date-sort="1668207600000" data-listing-file-modified-sort="1669559004376" data-listing-reading-time-sort="1.945">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html"> <img src="./posts/welcome/welcome.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/welcome/index.html">
-<h3 class="no-anchor listing-title">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="news" data-listing-date-sort="1668207600000" data-listing-file-modified-sort="1669572087144" data-listing-reading-time-sort="1.945">
+<a href="./posts/welcome/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/welcome/welcome.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Ciao mondo!
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
 news
 </div>
 </div>
-<a href="./posts/welcome/index.html">
-<div class="listing-description">
+<div class="card-text listing-description">
 Ciao mondo! (lo so, non suona figo come <code>Hello world!</code>). In questo sito a forma di blog (spero di aver fatto la scelta giusta nel layout) voglio provare a tenere traccia delle cose, degli oggetti, reali o digitali che costruisco e documentarne il processo di creazione.
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html">
-<div class="listing-date">
-Nov 12, 2022
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Alessio
 </div>
+<div class="listing-date">
+Nov 12, 2022
+</div>
+</div>
+</div>
+</div>
 </a>
 </div>
+<div class="g-col-1" data-index="1" data-categories="build,guitar,music" data-listing-date-sort="1668812400000" data-listing-file-modified-sort="1669572219927" data-listing-reading-time-sort="5.23">
+<a href="./posts/guitar-bluid-part1/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/guitar-bluid-part1/body2.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tele-novela-parte1
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('build'); return false;">
+build
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('guitar'); return false;">
+guitar
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('music'); return false;">
+music
+</div>
+</div>
+<div class="card-text listing-description">
+Finalmente ho deciso! Dopo tanto tempo e i soliti rimandi che mi contraddistinguono ad ottobre 2022 inizio un corso di liuteria elettrica. Dopo le ore ore spese a guardare video YouTube e dopo aver cercato un po’ ovunque in rete possibilità di corsi “fisicamente basati” nelle vicinanze di Bologna, alla fine ne ho trovato uno coi vecchi metodi, ovvero tramite passaparola.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Alessio
+</div>
+<div class="listing-date">
+Nov 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="build,guitar,music" data-listing-date-sort="1669417200000" data-listing-file-modified-sort="1669572242941" data-listing-reading-time-sort="4.27">
+<a href="./posts/guitar-bluid-part2/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/guitar-bluid-part2/images/morsa.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tele-novela-parte2
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('build'); return false;">
+build
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('guitar'); return false;">
+guitar
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('music'); return false;">
+music
+</div>
+</div>
+<div class="card-text listing-description">
+Insomma tutto l’entusiasmo iniziale si è subito affievolito dopo aver passato giorni ad usare le raspe. E non è ancora finita… ma andiamo con ordine.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Alessio
+</div>
+<div class="listing-date">
+Nov 26, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">

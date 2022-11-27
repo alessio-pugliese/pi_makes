@@ -3,7 +3,7 @@ title: "Tele-novela-parte1"
 toc: true
 toc-depth: 4
 author: "Alessio"
-date: "2022-11-19"
+date: "11-19-2022"
 categories: [build, guitar, music]
 image: "body2.jpg"
 ---

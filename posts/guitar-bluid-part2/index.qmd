@@ -3,7 +3,7 @@ title: "Tele-novela-parte2"
 toc: true
 toc-depth: 4
 author: "Alessio"
-date: "2022-11-26"
+date: "11-26-2022"
 categories: [build, guitar, music]
 image: "images/morsa.jpg"
 ---
