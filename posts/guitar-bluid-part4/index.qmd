@@ -5,7 +5,7 @@ toc-depth: 4
 author: "Alessio"
 date: "02-10-2023"
 categories: [build, guitar, music]
-image: "images/copertina_parte4.jpg"
+image: "Images/copertina_parte4.jpg"
 ---
 
 ## Route to hell
@@ -22,7 +22,7 @@ Ok, ora il discorso si fa interessante.
 
 Entra in gioco la CNC! Ebbene sì, abbiamo usato la fresatrice a controllo numerico per creare una dima ad-hoc per il modello di corpo scelto. Nonostante Marco, il maestro, abbia una quantità infinita di dime, specialmente modello telecaster, ne manca sempre qualcuna per riempire l'infinito catalogo Fender.
 
-![](images/image-1278631774.png){width="600"}
+![](Images/image-1278631774.png){width="600"}
 
 La dima, fatta in mdf da 8 mm, è stata realizzata per il modello Fender Vintera Deluxe che ha due humbucker "wide range" (con la placchetta in metallo). Il modello che ho scelto io ([parte I](/posts/guitar-bluid-part1/index.qmd)) invece è una Fender Vintera Custom, che ha un humbucker al manico e un single coil classico telecaster al ponte. La dima è stata usata per tutti gli scassi, tranne uno, quello per il pickup al ponte, per il quale è stata utilizzata una dima classica telecaster, con la solita forma quasi ovale.
 
@@ -30,7 +30,7 @@ La dima, fatta in mdf da 8 mm, è stata realizzata per il modello Fender Vintera
 
 Con la dima pronta e fresata, questa va centrata rispetto all'asse del corpo della chitarra. Se il corpo è costruito dall'unione di due pezzi, ci si affida alla giunzione, che fa anche da asse di riferimento. Nel mio caso, avendo usato 3 pezzi, il corretto posizionamento della dima non può fare affidamento sulla giunzione, infatti, come si vede anche dalla figura, il giunto è totalmente fuori asse di simmetria. In questo caso, quello che mi è stato suggerito di fare, è quello di allineare la dima prendendo a riferimento la proiezione della faccia nel lato lungo dello scasso del manico.
 
-![](images/image-261548050.png){width="600"}
+![](Images/image-261548050.png){width="600"}
 
 Una volta sistemata la dima al meglio, si procedere a tracciare per bene tutte le aperture sul corpo. Come si vede dalla figura il lato opposto dello scasso del manico non è allineato alla perfezione con l'impronta della dima. Questo non sembra essere un problema (o meglio, pare non esserlo, visto che nel momento in cui scrivo sono ancora a metà dell'opera, quindi chissà...), è possibile in un secondo momento rifinire per bene il contorno con carta vetrata e qualche tocco con la raspa in modo che combaci con la forma finale.
 
@@ -39,14 +39,15 @@ Una volta sistemata la dima al meglio, si procedere a tracciare per bene tutte l
 Ora è il momento metal (yeah! 🤘), dopo giorni di classica a far il pelo alla piccola sbavatura 🎻! Una volta posizionata la dima si procede, per mezzo di nastro biadesivo, al suo incollaggio temporaneo, cercando di stare attenti a riposizionare la dima sul *body* centrando le linee precedentemente tracciate.
 
 ::: {layout-ncol="2"}
-![Dima con nastro biadesivo](images/nastro_biadesivo.png){width="500"}
 
-![Scassi con profondità quotate](images/scassi_quotati.png){fig-align="center" width="500"}
+![Dima con nastro biadesivo](Images/nastro_biadesivo.png){width="500"}
+
+![Scassi con profondità quotate](Images/scassi_quotati.png){fig-align="center" width="500"}
 :::
 
 Il taglio con la fresatrice è abbastanza semplice da realizzare, tuttavia non è il massimo della sicurezza per chi, come me, non è pratico di tagli con elettroutensili. Innanzitutto, c'è da dire che per la realizzazione di questi scassi non è strettamente necessario avere una fresatrice professionale, una da hobbista da un centinaio di euro va più che bene, l'importante è che abbia il meccanismo ad affondamento che, oltre ad avere un maggiore controllo con le due mani, da la possibilità di una regolazione di precisione lungo la verticale. Ovviamente le frese devono essere a taglienti dritti con cuscinetto a copiare. L'altezza della fresa può variare a seconda della fase in cui ci troviamo: inizialmente bisogna usare una fresa con lunghezza di taglio piccola, in modo da non sforzare troppo l'elettroutensile in affondamento; si procede a rimuovere progressivamente gli strati di materiale avanzando un po' alla volta (\~5 mm); quando si è arrivati alla massima escursione possibile dell'utensile, è necessario cambiare la fresa con una più lunga.
 
-![Affondamento ottimale fresa](images/schema_fresatura.png){width="600"}
+![Affondamento ottimale fresa](Images/schema_fresatura.png){width="600"}
 
 Non è facile stabilire a priori l'altezza di scavo massima (affondamento), perché molto dipende dagli strumenti a disposizione, in generale può valere quanto consigliato dalla Fraiser:
 
@@ -67,11 +68,11 @@ Nella mia applicazione, i fori da eseguire sul body possono essere elencati come
 3.  #4 D4mm, con punta da legno classica, per l'alloggiamento delle viti del manico
 
 ::: {layout-nrow="2"}
-![1. Foro jack 1/4''](images/foro_jack.png){width="300"}
+![1. Foro jack 1/4''](Images/foro_jack.png){width="300"}
 
-![2. Foro pickup ponte](images/foro_pickup_ponte.png){width="300"}
+![2. Foro pickup ponte](Images/foro_pickup_ponte.png){width="300"}
 
-![3. Fori manico](images/fori_manico.png){width="300"}
+![3. Fori manico](Images/fori_manico.png){width="300"}
 :::
 
 Mentre i fori 1. e 2. sono stati realizzati con un classico trapano a batteria, i fori al manico devono essere molto precisi, per cui è stato utilizzato il trapano a colonna. Per realizzarli sono stati prima punzonati i punti nella faccia posteriore del *body* prendendo a riferimento direttamente la mascherina metallica, posizionando quest'ultima a circa 4mm dal bordo. La punzonatura è importante perché crea un invito autocentrante nel momento in cui la punta approccia il punto da forare.
@@ -81,9 +82,10 @@ Mentre i fori 1. e 2. sono stati realizzati con un classico trapano a batteria, 
 Infine, l'ultima lavorazione è il raccordo tra le facce e la superficie laterale, finora lasciata a spigolo vivo. Anche questa operazione, che richiede l'utilizzo di raspa e carta abrasiva, necessita la solita maniacale attenzione perché estremamente sensibile alla minima sbavatura.
 
 ::: {layout-ncol="2"}
-![](images/raccordo1.png){width="300"}
 
-![](images/raccordo2.png){width="300"}
+![](Images/raccordo1.png){width="300"}
+
+![](Images/raccordo2.png){width="300"}
 :::
 
 Nel caso della telecaster, il raccordo è di 5/16'', che corrispondono a circa 5mm. Si è proceduto innanzitutto tracciando linee con offset di 5mm dallo spigolo su tutte le superfici. Con una raspa non troppo grande viene poi asportato il materiale agendo in senso circolare. In questa fase bisogna fare attenzione a non creare un piano a 45°, bensì bisogna accompagnare la curvatura e dando forma al raccordo. Gli unici spigoli da non toccare con la raspa sono quelli della zona posteriore allo scasso del manico: in questo caso si agirà solamente con carta abrasiva.
