@@ -64,6 +64,8 @@ Nel mio caso lo scasso era appena più stretto, specialmente nella parte della t
 
 ![Fresatura dello scasso per il truss rod.](images/image-358085078.png){#fig-truss width="600"}
 
+![Fresatura dello scasso per il truss rod.](Images/image-358085078.png)
+
 ![](Images/image-83900485.png)
 
 ### Incollaggio
