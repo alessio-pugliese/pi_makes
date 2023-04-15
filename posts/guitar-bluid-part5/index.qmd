@@ -20,11 +20,11 @@ Nel caso del manico, qualsiasi piccolo errore può portare al disastro. Speriamo
 
 Da un pezzo di acero grezzo sono stati ricavati due pezzi, tagliati con la sega a nastro lungo vena. I due pezzi sono stati quindi calibrati con la pialla a spessore e portati a 20 mm e 6 mm rispettivamente per il manico e per la tastiera.
 
-![](images/image-829326565.png){width="600"}
+![](Images/image-829326565.png)
 
 Una particolare da tenere a mente nella costruzione della tastiera è la disposizione della venatura del legno, che determina l'aspetto del manico, ma soprattutto la disposizione degli anelli di accrescimento. Questi devono essere rivolti con la concavità verso l'alto, in tal modo, se mai si dovesse imbarcare il legno, agendo sul trus rod è possibile tornare alla condizione iniziale.
 
-![](images/image-1452876642.png){width="600"}
+![](Images/image-1452876642.png){width="600"}
 
 ### Tracciatura e quotatura
 
@@ -42,7 +42,7 @@ Stabilito il verso del pezzo da lavorare, si passa al tracciamento e quotatura c
 
 Si inizia nel frattempo a lavorare alla tastiera. Per prima cosa si crea una costa dritta e a squadro con un pialletto. Poi si traccia sull'altra costa una linea dritta a 63 mm dallo spigolo appena piallato. Quindi, si pialla l'altra costa portando lo spessore della tastiera a circa 63 mm (mi sono fermato appena sopra la linea della matita). In questo modo si ottengono due coste a squadro e circa a misura.
 
-![](images/image-1284489814.png){width="600"}
+![](Images/image-1284489814.png)
 
 ### Slotting dei tasti
 
@@ -50,7 +50,7 @@ Per l'operazione di taglio del canale dei tasti è necessario utilizzare degli s
 
 La sega è di uno spessore così piccolo che è difficile reperirla se non nei negozi specializzati in liuteria. Un'alternativa un po' più sbrigativa sarebbe quella di usare un Dremel o una fresatrice con una punta piccola, assieme ad una dima dedicata.
 
-![Slotting dei tasti con dima.](images/image-850246814.png){#fig-dima_slotting width="600"}
+![Slotting dei tasti con dima.](Images/image-850246814.png){#fig-dima_slotting}
 
 ### Scasso per alloggiamento del truss rod
 
@@ -64,7 +64,7 @@ Nel mio caso lo scasso era appena più stretto, specialmente nella parte della t
 
 ![Fresatura dello scasso per il truss rod.](images/image-358085078.png){#fig-truss width="600"}
 
-![](images/image-83900485.png){width="600"}
+![](Images/image-83900485.png)
 
 ### Incollaggio
 
@@ -74,4 +74,4 @@ Il serraggio avviene per mezzo di 7 morsetti. La pressione è distribuita unifor
 
 Il tempo di asciugatura della colla è di 24-48 ore, nel mio caso ho tenuto tutto morsettato per almeno 4 giorni.
 
-![](images/image-71466536.png){width="600"}
+![](Images/image-71466536.png)
