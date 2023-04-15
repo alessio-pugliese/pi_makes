@@ -39,7 +39,6 @@ Una volta sistemata la dima al meglio, si procedere a tracciare per bene tutte l
 Ora è il momento metal (yeah! 🤘), dopo giorni di classica a far il pelo alla piccola sbavatura 🎻! Una volta posizionata la dima si procede, per mezzo di nastro biadesivo, al suo incollaggio temporaneo, cercando di stare attenti a riposizionare la dima sul *body* centrando le linee precedentemente tracciate.
 
 ::: {layout-ncol="2"}
-
 ![Dima con nastro biadesivo](Images/nastro_biadesivo.png){width="500"}
 
 ![Scassi con profondità quotate](Images/scassi_quotati.png){fig-align="center" width="500"}
@@ -82,7 +81,6 @@ Mentre i fori 1. e 2. sono stati realizzati con un classico trapano a batteria, 
 Infine, l'ultima lavorazione è il raccordo tra le facce e la superficie laterale, finora lasciata a spigolo vivo. Anche questa operazione, che richiede l'utilizzo di raspa e carta abrasiva, necessita la solita maniacale attenzione perché estremamente sensibile alla minima sbavatura.
 
 ::: {layout-ncol="2"}
-
 ![](Images/raccordo1.png){width="300"}
 
 ![](Images/raccordo2.png){width="300"}
