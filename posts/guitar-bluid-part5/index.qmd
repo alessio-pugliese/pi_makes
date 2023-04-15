@@ -62,9 +62,7 @@ Si posiziona il manico facendo riferimento al suo asse tracciato in precedenza. 
 
 Nel mio caso lo scasso era appena più stretto, specialmente nella parte della testa della barra, dove l'alloggiamento deve essere approfondito appena un po' di più in modo tale che la testa sia completamente a filo. Il lavoro è stato completato con un paio di ceselli affilati.
 
-![Fresatura dello scasso per il truss rod.](images/image-358085078.png){#fig-truss width="600"}
-
-![Fresatura dello scasso per il truss rod.](Images/image-358085078.png)
+![Fresatura dello scasso per il truss rod.](Images/image-358085078.png){#fig-truss}
 
 ![](Images/image-83900485.png)
 
