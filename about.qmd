@@ -18,6 +18,6 @@ about:
       href: https://mastodon.uno/@ale_pi
 ---
 
-In questo spazio virtuale, **pi_makes**, racconto della creazione di cose, di oggetti analogici e digitali. Mi piace costruire con le mie mani, ma ancora più interessante è il processo che porta alla creazione: l'intuizione, la ricerca, la progettazione e la realizzazione. Mi appassiona l'informatica e la programmazione in ambito scientifico, ovvero modi meno faticosi di realizzare oggetti astratti, virtuali, che però hanno quasi sempre un riflesso nel mondo che ci circonda.
+In questo spazio virtuale, **pi_makes**, racconto della creazione di cose, di oggetti analogici e digitali. Mi piace costruire con le mie mani, ed è ancora più interessante il processo che porta alla creazione: l'intuizione, la ricerca, la progettazione e la realizzazione. Mi appassiona l'informatica e la programmazione in ambito scientifico, che sono poi modi meno faticosi di realizzare oggetti, all'apparenza astratti e virtuali, che però hanno quasi sempre un riflesso nel mondo che ci circonda.
 
 Sono ingegnere 💻, lavoro ad Arpae 🌲 Emilia-Romagna dove mi occupo di modellistica idrologica e idraulica 🌧️\> 🏞️ \> 🏖️ vivo da perenne fuori sede a Bologna 🎓 dal 2009.
