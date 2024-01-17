@@ -14,7 +14,7 @@ website:
         href: https://twitter.com/alessiop86
       - icon: mastodon
         href: https://mastodon.uno/@ale_pi
-  page-footer: "©2022-2023, Alessio Pugliese" 
+  page-footer: "©2022-2024, Alessio Pugliese" 
 format:
   html:
     theme: cosmo
