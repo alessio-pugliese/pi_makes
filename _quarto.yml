@@ -14,7 +14,11 @@ website:
         href: https://twitter.com/alessiop86
       - icon: mastodon
         href: https://mastodon.uno/@ale_pi
+      - icon: rss
+        href: index.xml
   page-footer: "©2022-2024, Alessio Pugliese" 
+  site-url: https://alessio-pugliese.github.io/pi_makes/
+  description: "Pi makes stuff and see people"
 format:
   html:
     theme: cosmo

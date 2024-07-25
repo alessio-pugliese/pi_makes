@@ -5,7 +5,7 @@ toc-depth: 4
 author: "Alessio"
 date: "01-26-2023"
 categories: [R, math]
-image: "images/copertina_gaussiana.jpg"
+image: "Images/copertina_gaussiana.jpg"
 draft: true
 ---
 
@@ -22,4 +22,3 @@ La fascinazione che ebbi per quella dimostrazione fu tale che, appena rientrato 
 ### Dimostrazione
 
 Si tratta di trovare una soluzione alla curva
-

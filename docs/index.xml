@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>pi_makes</title>
+<link>https://alessio-pugliese.github.io/pi_makes/index.html</link>
+<atom:link href="https://alessio-pugliese.github.io/pi_makes/index.xml" rel="self" type="application/rss+xml"/>
+<description>Pi makes stuff and see people</description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Mon, 22 Jul 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Tele-novela-parte8</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-endless-end" class="level2">
+<h2 class="anchored" data-anchor-id="the-endless-end">The endless end</h2>
+<p>Finito il manico ho pensato “ok, ci siamo, un mesetto o due ed è finita”, e invece ci sono voluti altri 7 mesi!</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/https:/i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8ydnFhY2l1Z3BhZzBwYng3cXg5d3V0M3g5aGJrZmtjdXR6Z2Y4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5oVCS9NMVkXe/giphy.gif" class="img-fluid" width="610"></p>
+<p>Non sono in grado di creare suspense, quindi partirei dalla fine. Eccola qua:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/chitarra_appesa.jpg" class="img-fluid figure-img" width="336"></p>
+</figure>
+</div>
+<p>Il logo voleva essere un ricordo autoreferenziale e molto poco artistico, nella convinzione che non puoi costruire una chitarra senza apporre uno stemma della casa produttrice, insomma volevo qualcosa su quella paletta. Inizialmente avevo detto che l’avrei chiamata “anti-caster”, ma, nonostante i numerosi errori mi sembrava eccessivamente punitivo nei miei confronti. Con “forecaster” ho mantenuto un buon grado di autoironia, visto che, come spesso capita con le previsioni idro/meteo, ho cannato i tempi necessari alla costruzione, ma al tempo stesso questa parola proietta l’orizzonte verso il futuro, mi ricorda che la fine è un nuovo punto di partenza.</p>
+<p>Ci sarebbe da descrivere tutto il lavoro dedicato alla verniciatura e alla finitura a specchio, ma, dato che queste lavorazioni sono state fatte per la maggior parte dal maestro liutaio, e che, necessariamente, richiedono un approfondimento spcifico, non parlerò qui della verniciatura. La prendiamo magicamente per fatta con uno schiocco di dita 👉.</p>
+<section id="giunzione-di-manico-e-corpo-post-verniciatura" class="level3">
+<h3 class="anchored" data-anchor-id="giunzione-di-manico-e-corpo-post-verniciatura">Giunzione di manico e corpo (post-verniciatura)</h3>
+<p>La verniciatura lascia dei residui nella zona di contorno della tasca del manico nelle piccole cavità che si formano tra la faccia superiore e la zona della tasca, che viene mascherata con scotch carta prima della verniciatura in modo la tasca non venga coperta dalla vernice. Questi residui restringono l’ingombro effettivo della tasca, per cui bisogna riportarla alle dimensioni giuste, in modo che il manico calzi perfettamente.</p>
+<p>Per fare questo si avvolge della carta 320 ad un bastoncino di legno piatto, della dimensione dello stecco di un gelato. Bisogna fare molta attenzione a non abradere la superficie superiore, lavorare sempre paralleli ai piani della tasca.</p>
+<div id="fig-giunzione-post" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-giunzione" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240130_220440118.jpg" class="img-fluid figure-img" data-ref-parent="fig-giunzione-post"></p>
+<p></p><figcaption class="figure-caption">(a) giunzione post-verniciatura</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-schermatura" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240419_105054593.jpg" class="img-fluid figure-img" data-ref-parent="fig-giunzione-post"></p>
+<p></p><figcaption class="figure-caption">(b) fori al manico + schermatura con rame</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Giunzione corpo e manico post-verniciatura</figcaption><p></p>
+</figure>
+</div>
+<p>Una volta che il manico entra alla perfezione nella tasca, e sistemato nella sua sede, utilizzando una delle viti per la giunzione del corpo con il manico, si fa in modo da marcare con la punta della vite la posizione del preforo da praticare. Il diametro del foro è in funzione della vite, 3 mm dovrebbe andare bene. Preforato il manico, aiutandosi con un morsetto al giunto corpo/manico, si avvitano le 4 viti posteriori.</p>
+</section>
+<section id="costruzione-dei-pick-up-e-del-battipenna" class="level3">
+<h3 class="anchored" data-anchor-id="costruzione-dei-pick-up-e-del-battipenna">Costruzione dei pick-up e del battipenna</h3>
+<p>I pickup sono stati interamente autocostruiti. Marco, il maestro liutaio, ha sviluppato e ingegnerizzato diverse linee di pickup, nel mio caso ho scelto un hambucker al manico e un single coil al ponte, come per il modello Fender Vintera ’70 Custom a cui mi sono ispirato. Anche qui ci sarebbe molto da dire, ma come per la verniciatura, è stato fatto tutto da Marco, per cui non mi soffermo nei dettagli costruttivi.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/pickup.jpg" class="img-fluid figure-img" width="800"></p>
+<p></p><figcaption class="figure-caption">pickup Bo-One</figcaption><p></p>
+</figure>
+</div>
+<p>Il battipenna è stato lavorato alla CNC. Da un foglio di laminato di ABS. Si procede prima alla creazione dei fori, poi al taglio della sagoma e infine allo smusso del contorno a 45°, facendo attenzione a non smussare i tratti di curva a contatto con il manico, con il ponte e con i pickup. Completata questa operazione, è possibile che la lavorazione alla CNC lasci delle bavette di materiale plastico che possono essere rimosse rapidamente con una rasiera.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/battipenna.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Battipenna</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="rettifica-coronatura-e-lucidatura-dei-tasti" class="level3">
+<h3 class="anchored" data-anchor-id="rettifica-coronatura-e-lucidatura-dei-tasti">Rettifica, coronatura e lucidatura dei tasti</h3>
+<p>Una delle fasi più belle di tutta la costruzione. Una volta verniciato il manico, si procede alla mascheratura lasciando solo i tasti scoperti. Fare attenzione allo scotch carta, si preferisca uno scotch poco incollante, perché potrebbe staccarsi la finitura.</p>
+<p>La fase di pulizia dei tasti viene fatta con carta P1000. Non è un problema se rimane della vernice alla base del tasto.</p>
+<p>A questo punto si passa alla rettifica (livellamento) dei tasti utilizzando una <a href="https://rectifymaster.com/katana-it">katana</a> o un profilato metallico di spessore adeguato e dritto. La rettifica si fa utilizzando una grana piuttosto aggressiva P240 con carta di alta qualità (Eagle abrasives).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240220_193046511.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Katana e lima per coronatura</figcaption><p></p>
+</figure>
+</div>
+<p>Quando si fa la rettifica è importante seguire la curvatura radiale del manico, che geometricamente è assimilabile ad un tronco di cono. Si parte paralleli ad un lato e si muove la barra sotto e sopra arrivando al centro in posizione parallela all’asse del manico, per poi ruotare e mettersi a specchio, paralleli all’altro lato. Si muove la barra da parte a parte con passate regolari a con <strong>pressione uniforme</strong>. Si arriva al livello finale quando tutti i tasti sono abrasi in sommità.</p>
+<p>Prima di passare alla coronatura, si mascherano nuovamente i tasti con scotch carta. Con la lima per la coronatura si procede a ripristinare il profilo curvo del tasto. È un lavoro di precisione, che richiede parecchia sensibilità alla mano.</p>
+<p>Passaggio successivo, quello più lungo e laborioso, è quello della lucidatura con carta 1500 e poi 2000, usando il pollice si puliscono i tasti dai segni della lima. Il tasto si presenta già abbastanza lucido.</p>
+<p>Infine, si passa alla lucidatura con la lucidatrice. Si può usare un dremel con il pad dedicato.</p>
+</section>
+<section id="elettronica" class="level3">
+<h3 class="anchored" data-anchor-id="elettronica">Elettronica</h3>
+<p>Per prima cosa si è proceduto alla schermatura utilizzando del nastro di rame: si tagliano delle strisce e si ricoprono tutte le cavità. Nella schermatura della parte posteriore del battipenna si lascia qualche millimetro dal bordo. Inoltre, le cavità schermate sono unite tra loro da un cavo, che poi è saldato alla terra, nel caso del battipenna si fa colare una puntina di stagno alle giunzioni delle strisce. Questo garantisce una schermatura completa dalle interferenze elettromagnetiche, eliminando anche il rumore di fondo.</p>
+<p>Per unire componenti e pickup in modo corretto bisogna seguire uno schema elettrico come quello riportato qui:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/Telecaster-Custom-Wiring-Diagram.jpg" class="img-fluid figure-img" width="463"></p>
+<p></p><figcaption class="figure-caption">Schema elettrico</figcaption><p></p>
+</figure>
+</div>
+<p>Nel mio caso sono stati scelti 4 potenziometri da 250kΩ e condensatori da 0.022μF (22 nF) non polarizzati. I cavi dei pickup sono schermati a 4 conduttori.</p>
+<div id="fig-elettronica" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-elettronica1" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240507_191912775.jpg" class="img-fluid figure-img" data-ref-parent="fig-elettronica"></p>
+<p></p><figcaption class="figure-caption">(a) montaggio parti</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-elettronica2" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240507_202739159.jpg" class="img-fluid figure-img" data-ref-parent="fig-elettronica"></p>
+<p></p><figcaption class="figure-caption">(b) saldatura cavi</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-elettronica3" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240507_195349446.jpg" class="img-fluid figure-img" data-ref-parent="fig-elettronica"></p>
+<p></p><figcaption class="figure-caption">(c) asola per jack</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-elettronica4" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240507_200650411.jpg" class="img-fluid figure-img" data-ref-parent="fig-elettronica"></p>
+<p></p><figcaption class="figure-caption">(d) jack a scodella</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Montaggio e saldatura dei componenti elettronici</figcaption><p></p>
+</figure>
+</div>
+<p>Interessante è l’installazione dell’asola che alloggia il connettore jack mono. Nel caso dei modelli vintage con la presa jack a scodella bisogna ammorsare l’asola in metallo (Figure&nbsp;2 (c)) con una dima fatta con una bullone lungo e un paio di dadi e controdadi: la torsione del bullone fa muovere l’asola che si va progressivamente ad ammorsare nella cavità del body. Il jack a scodella rimane una soluzione elegante e senza viti a vista.</p>
+</section>
+<section id="limatura-del-capotasto" class="level3">
+<h3 class="anchored" data-anchor-id="limatura-del-capotasto">Limatura del capotasto</h3>
+<p>La limatura dei canali delle corde al capotasto viene fatta con delle lime speciali (piuttosto costose) in grado di produrre un fondo curvo che avvolge la corda. Tuttavia fanno parte delle attrezzatura indispensabili per la liuteria. Le dimensioni dei solchi nel capotasto dipendono essenzialmente dal set di corde che si vuole utilizzare. Nel mio caso ho optato per delle 10-46, per cui le lime usate sono le seguenti</p>
+<ul>
+<li><p>StewMac #4541: Mi cantino (0.012’‘), Si (0.020’’)</p></li>
+<li><p>StewMac #4542: Sol (0.026’’)</p></li>
+<li><p>StewMac #4543: Re (0.036”), La (0.042”)</p></li>
+<li><p>StewMac #4543: Mi basso (0.050”)</p></li>
+<li><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/PXL_20240514_204408380.jpg" class="img-fluid figure-img" alt="Lime per capotasto" width="450"></p>
+<p></p><figcaption class="figure-caption">Lime per capotasto</figcaption><p></p>
+</figure>
+</div></li>
+</ul>
+<p>Si procede innanzitutto alla tracciatura sul capotasto della spaziatura delle corde. Poi si fanno dei piccoli solchi iniziali in modo da tenere le corde in tensione ferme nella loro sede. Si mettono quindi su le corde e le si portano in tensione alla nota di riferimento. Si inizia a lavorare con la lima un tasto alla volta spostando la corda di lato. Quindi si procede controllando spesso l’altezza e di volta in volta si accorda alla nota di riferimento della corda. Le passate con la lima devono seguire un andamento curvilineo inclinato verso la paletta in modo da accompagnare il percorso delle corde verso le meccaniche. Una <em>action</em> corretta prevede un’altezza di riferimento della base della corda al primo tasto di <strong>0.5 mm</strong>.</p>
+</section>
+<section id="lavorazioni-finali-e-test" class="level3">
+<h3 class="anchored" data-anchor-id="lavorazioni-finali-e-test">Lavorazioni finali e test</h3>
+<p>Le ultimissime lavorazioni sono:</p>
+<ol type="1">
+<li><p>test dei pickup. Una volta completato lo schema elettrico si testano i pickup collegando la chitarra all’amplificatore, e con un cacciavite si toccano le punte dei magneti, l’ampli emette un rumore. In questa fase si verificano anche ronzii e rumori.</p></li>
+<li><p>intonazione e altezza del ponte. Sono le regolazioni più importanti fatte alle sellette del ponte che determinano l’<em>action</em> della chitarra.</p></li>
+<li><p>inserimento a pressione delle boccole nella parte posteriore. Aiutandosi con un blocchetto di legno e un martello di gomma, una alla volta sono inserite a pressione le boccole. Questa operazione va fatta prima della limatura del capotasto.</p></li>
+<li><p>inserimento di tutte le viti del battipenna. Si strofina della cera d’api sulla vite in modo da non danneggiare il legno e facilitare l’avvitamento.</p></li>
+<li><p>tendicorda alla paletta.</p></li>
+<li><p>viti per la tracolla con <em>straplock</em> (comodissimo).</p></li>
+<li><p>strimpellata liberatoria! anche senza ampli, a secco, va bene lo stesso.</p></li>
+</ol>
+</section>
+<section id="conclusioni" class="level3">
+<h3 class="anchored" data-anchor-id="conclusioni">Conclusioni</h3>
+<p>È stata una maratona! Ci sono voluti 18 mesi, impiegando 3 ore effettive a settimana, per arrivare alla fine. Avevi totalmente sottostimato i tempi morti, specialmente in fase di verniciatura. Ne è valsa la pena? Certamente sì! Alla fine è una gran soddisfazione vederla finita. È sicuramente un oggetto che mi accompagnerà tutta la vita, e mi ricorderà questi momenti di gioia e dolore.</p>
+<p>Ma…. alla fine, suona? Suona molto bene, grazie soprattutto agli ottimi pickup di Marco, ha un <em>sustain</em> infinito, indice di ottima qualità del legno e delle vernici, una <em>action</em> non bassissima, direi giusta, ma ottima per i puliti, che è poi quello che si richiedeva a questo modello, una impugnatura solida e confortevole.</p>
+<p>Questa serie finisce qua, ho in cantiere altre costruzioni di chitarre, pedali e altre robe che spero di riuscire a documentare, anche se sicuramente non così nel dettaglio (18 mesi sono stati una concessione di I. unica e non ripetibile). Saluto infine il mio unico lettore, Pietro, grazie.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/index.html</guid>
+  <pubDate>Mon, 22 Jul 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part8/Images/copertina_parte8.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tele-novela-parte7</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="on-a-fret-train" class="level2">
+<h2 class="anchored" data-anchor-id="on-a-fret-train">On a “fret” train</h2>
+<p>Come uccidere un manico con una pressa per tasti e la sua resurrezione.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/https:/media.giphy.com/media/3otPoPecTPTLmyGcak/giphy.gif" class="img-fluid" width="610"></p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-239366631.png" class="img-fluid" width="600"></p>
+<p>Le lavorazioni che verranno descritte in questo capitolo rappresentano una miscellanea di operazioni, elencate nell’ordine con il quale sono state eseguite. Racconto anche degli errori commessi e come sono avvenuti, nella speranza che non accadano più.</p>
+<section id="raggiatura-della-tastiera" class="level3">
+<h3 class="anchored" data-anchor-id="raggiatura-della-tastiera">Raggiatura della tastiera</h3>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-2070379505.png" class="img-fluid" width="400"></p>
+<p>L’operazione di raggiatura della tastiera è apparentemente un’operazione semplice, ma come in tutte le lavorazioni, si nascondono insidie che è bene tenere a mente. Ho scelto una curvatura piuttosto pronunciata, che significa adottare un raggio piccolo, pari a 7.25”. È un raggio vintage, ormai in disuso, ma ero curioso di capire quale è il feeling sotto le dita di un raggio così pronunciato. Bisogna considerare che più il raggio è elevato, più la tastiera è ritenuta “veloce”, nel senso che è possibile fare assoli a velocità sostenuta. Al contrario il bending nei manici curvi dovrebbe essere più piacevole, senza quella sensazione di accavallamento delle corde.</p>
+<p>Si procede incollando con del nastro biadesivo su una superficie planare il manico. Si sistemano due quadrotti di legno che faranno da guida in modo che l’asse del manico sia coincidente con l’asse di simmetria. I due pezzi di legno devono avere almeno una delle facce ciascuno piallata e perfettamente planare. Per craere il raggio si utilizza un blocchetto di legno concavo raggiato con lo stesso raggio finale della tastiera a cui è applicata della carta abrasiva a grana grossa (80/120). Il blocchetto scorrerà sulla tastiera e in appoggio sui lati dei quadrotti guida. Per sistemare i quadrotti si prendono le dimensioni del blocchetto abrasivo in modo che scorra parallelo all’asse di simmetria del manico. L’asse di simmetria del blocchetto deve coincidere con l’asse di simmetria del manico.</p>
+<p>Una volta sistemati i quadrotti guida si procede alla lavorazione facendo passate lineari in avanti e indietro stando attendi a non esercitare troppa pressione su un punto in particolare. La pressione deve essere esercitata il più uniformemente possibile. Il materiale verrà asportato progressivamente dal contorno esterno verso l’interno. La lavorazione sarà conclusa quando il blocchetto asporta materiale su tutta la tastiera.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1729625111.png" class="img-fluid" width="400"></p>
+<p>Per procedere all’inserimento dei tasti è necessario che i canali dove alloggeranno devono essere alla giusta profondità, ovvero circa 2 mm. Bisogna quindi ripassare tutti i canali con la sega in modo raggiungere la profondità seguendo il raggio appena creato. Controllare quindi con una dima la corretta profondità (in questo caso si tratta di un pezzo di nastro applicato a 2 mm dal bordo di una rasiera).</p>
+</section>
+<section id="dots" class="level3">
+<h3 class="anchored" data-anchor-id="dots">Dots</h3>
+<p>Per i segntasti (o anche “dot”) bisogna tracciare per bene i punti di foratura. Prima di tutto bisogna tracciare nuovamente l’asse di simmetria. Per individuare il punto è sufficiente tracciare la diagonale da un angolo all’altro del tasto, ma si può tracciare anche la seconda per controllo. Nei tasti alti la tracciatura delle diagonali è piuttosto complicata a causa della curvatura e della distanza piccola tra un tasto e l’altro. In questi casi si procede semplicemente prendendo la metà della distanza tra i tasti con un calibro. Questa operazione è molto semplice, ma è da tenere a mente che la precisione della tracciatura deve essere dell’ordine del decimo di mm, altrimenti già con 1 mm di errore si noterà il tasto leggermente spostato.</p>
+<p>Per i dot laterali piccoli si procede in modo analogo. Si traccia una linea di riferimento a metà tra il profilo della tastiera e la linea di incollaggio tra tastiera e manico. In alternativa, si può usare anche la linea di incollaggio come linea di riferimento per l’allineamento dei dot.</p>
+<p>Prima della foratura è bene praticare un invito al foro con un bulino, o un chiodo. Il foro deve avere il diametro adeguato per il dot scelto e non deve essere né troppo stretto né troppo largo. La profondità di foratura è circa 2 mm, anche se non è necessario essere estremamente precisi perché la parte eccedente verrà carteggiata. Nel caso dei dot laterali quando si pratica il foro fare attenzione a avere un buon ancoraggio all’avvio perché la punta può scappare. Come lo so? Perché mi è scappata! Ed un foro è stato rifatto perché era completamente disallineato. Ovviamente l’errore è visibile, ma sarà lì a ricordarmi ogni volta che lo guarderò quanto sia importante la calma, la precisione e la cura dei dettagli; ma anche a ricordarmi che non fa niente se si sbaglia, perché nella maggior parte dei casi si può rimediare.</p>
+<div id="fig-dots" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-dotsprincipali" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-132639543.png" class="img-fluid figure-img" data-ref-parent="fig-dots"></p>
+<p></p><figcaption class="figure-caption">(a) dot</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-sidedots" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1077887608.png" class="img-fluid figure-img" data-ref-parent="fig-dots"></p>
+<p></p><figcaption class="figure-caption">(b) dot laterali</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Segnatasti</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="tastatura" class="level3">
+<h3 class="anchored" data-anchor-id="tastatura">Tastatura</h3>
+<p>Questa fase è stata piuttosto traumatica perché è facile fare errori abbastanza gravi. In questo caso è stata usata una pressa idraulica autocostruita dal maestro liutaio. Non è difficile usare la macchina, ma è necessario avere la mano in grado di capire la pressione giusta da applicare, senza contare il fatto che la testa della pressa che spinge sul tasto deve essere ben allineata al canale in modo che il tasto entri senza scheggiare il legno.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-2032672892.png" class="img-fluid" width="400"></p>
+<p>La prima operazione di fare, una volta scelta la grandezza dei tasti (piccoli, medi, jumbo), è piegare il rotolo del tasto a circa il raggio finale della tastiera. La piegatura è fatta con una dima autocostruita formata da una placchetta di allumimio piuttosto spesso (7-10 mm) a cui sono avvitati due cuscinetti a sfera e una rondella in nylon alla quale è stato fatto un intaglio a “v” lungo tutto il perimetro. La rondella di nylon serve e fare presa sulla parte bassa del tasto mentre i due cuscinetti a sfera servono per conferire il raggio e far scorrere il tasto nella piegatura. La piegatura finale deve essere tale che il raggio del tasto piegato sia leggermente minore del raggio della tastiera. Per la verifica si appoggia il tasto piegato sulla tastiera e si vede se passa un leggero filo di luce sotto il tasto nella parte centrale.</p>
+<p>La seconda operazione da fare è stata quella di tagliare i tasti a misura, e posizionarli in un contenitore fatto da un blocco di legno con 24 fori. Si parte dal tacco e si prende la misura direttamente con il tasto lasciando circa un paio di mm in più per lato. Il taglio è da farsi con una tenaglia per carpenteria. I tasti tagliati si sistemano uno ad uno in sequenza nei fori del blocchetto. Ciascun foro è numerato in modo da individuare univocamente il tasto a cui si riferisce.</p>
+<p>Con i tasti tagliati si procede alla pressatura. Questa operazione può essere condotta con una pressa a cremagliera o semplicemente con un martello gommato. Se si usa la pressa è fondamentale, in caso il manico sia già al profilo finale (già sagomato), che la parte posteriore del manico sia in appoggio su un supporto adeguato: stondato per la parte curva, e piatto per la parte del tacco. Se il manico non riceve un supporto adeguato nella parte posteriore, in fase di pressione del tasto con la pressa, è possibile deformare in modo irreparabile il manico. Nel mio caso è successo, ho avuto dei danni minori, il manico fortunatamente non è da buttare, ma è una cosa da tenere bene a mente. Nell’applicazione del tasto è stato messo anche qualche punto di colla cianoacrilica, che va poi rimossa, una volta seccata, con uno scalpello.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/copertina_parte7.png" class="img-fluid" width="500"></p>
+</section>
+<section id="levigatura-e-smussatura-dei-tasti" class="level3">
+<h3 class="anchored" data-anchor-id="levigatura-e-smussatura-dei-tasti">Levigatura e smussatura dei tasti</h3>
+<p>Completata la posa dei tasti, con una lima per metello si passa a livellare i tasti sbordanti rispetto alla larghezza del manico. La procedura è molto semplice: bisogna dapprima portare i tasti alla stessa quota del contorno laterale, per poi praticare uno smusso di circa 20°/30° verso l’interno della tastiera. Per lo smusso si può usare una dima, fatta da un blocchetto di legno con una lima dolce da metallo fissata già con l’angolo giusto. Attenzione a non segnare i tasti con la lima, se scappa può rigare parecchio, specialmente i tasti in nickel.</p>
+<div id="fig-lime" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-limainclinata" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1109039349.png" class="img-fluid figure-img" data-ref-parent="fig-lime"></p>
+<p></p><figcaption class="figure-caption">(a) Lima inclinata</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-limapiatta" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-618068543.png" class="img-fluid figure-img" data-ref-parent="fig-lime"></p>
+<p></p><figcaption class="figure-caption">(b) Lima piatta</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Famous Elephants</figcaption><p></p>
+</figure>
+</div>
+<p>Un’altra lavorazione di questa fase è quella di smussare gli angoli nelle parti terminali dei tasti, anche nota come “fret dressing”. Per questa operazione serve una limetta apposita che ha una faccia stondata, “safe edge”, in modo da non fare danni al legno della tastiera nel caso in cui ci si voglia appoggiare. Il movimento deve essere continuo dall’alto verso il basso ed inoltre bisogna imprimere una rotazione diretta verso il centro del tasto, in grado di generare una vera e propria stondatura dei terminali dei tasti.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1658797575.png" class="img-fluid" width="500"></p>
+<p>Ultima operazione è quella di chiudere i vuoti che possono crearsi tra il terminale del tasto e il canale, perché il canale è generalmente più profondo del tasto. Si procede con della carta a grana fine 320 facendo delle leggerissime passate che formino della polvere (di acero in questo caso). Con della colla cianoacrilica si mette 1 goccia per terminale e si fa in modo che polvere e colla si mescolino e riempiano il vuoto. Si applica poi un’ulteriore goccetta di colla per fissare l’impasto. Alla fine si leviga con carta 320 a mano e senza fare nessuna pressione fino ad avere il lato del manico nuovamente liscio.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-262052499.png" class="img-fluid" width="500"></p>
+</section>
+<section id="capotasto" class="level3">
+<h3 class="anchored" data-anchor-id="capotasto">Capotasto</h3>
+<p>Con uno scalpello da 2 mm, si asporta la parte di legno che forma il capotasto. I due estremi sono rappresentati dai tagli fatti con la dima per i tagli dei tasti, che formano una sorta di area di sicurezza da non oltrepassare. Si procede ad asportare uno strato dopo l’altro. Un suggerimento utile a non strappare la fibra di legno è quello di lavorare con lo scalpello sempre da fuori verso dentro, fermarsi con la lama qualche millimetro prima dell’altro estremo, lavorare l’altro estremo da fuori verso dentro ricongiungendo e completando lo strato asportato.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1886783457.png" class="img-fluid" width="500"></p>
+<p>Il capotasto è ricavato da un pezzo di osso del femore di manzo. Si taglia prima un parallelepipedo grande all’incirca come il canale del capotasto (largo circa 3 mm) con una sega per metallo.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1458796829.png" class="img-fluid" width="500"></p>
+<p>Si procede quindi a levigare due facce, con carta 120, in modo che il blocchetto sia perfettamente incastrato nel canale. Poi, si prendono le misure del raggio della tastiera tracciando con una matita direttamente sul pezzo di osso la curvatura della tastiera. Con una lima per metallo si procede a creare la curvatura della tastiera fino al punto in cui il capotasto entri perfettamente senza particolari pressioni. La curvatura deve essere replicata anche sul lato opposto, facendo attenzione a non asportare troppo materiale perché se è troppo basso rispetto ai tasti si avranno problemi con la messa a punto.</p>
+<div id="fig-capotasto" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-tracciamento-curvatura" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1150604483.png" class="img-fluid figure-img" data-ref-parent="fig-capotasto"></p>
+<p></p><figcaption class="figure-caption">(a) Curvatura base</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-limacapostasto" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-923957255.png" class="img-fluid figure-img" data-ref-parent="fig-capotasto"></p>
+<p></p><figcaption class="figure-caption">(b) Limatura</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;3: Costruzione capotasto</figcaption><p></p>
+</figure>
+</div>
+<p>Quando l’incastro è perfetto si tracciano con una matita gli estremi da asportare andando in appoggio sulla superficie del manico in modo che i terminali del capotasto siano a filo con il manico. Si procede quindi all’asportazione del materiale con carta abrasiva. Come ultima operazione vengono stondati gli angoli superiori delle facce terminali, sempre con la carta. Usare per queste operazioni di “fitting” finale carta 220 o 320.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1320317305.png" class="img-fluid" width="500"></p>
+<p>Una volta completato il capotasto è stato installato con qualche goccia di colla cianoacrilica. Se dovessero esserci dei piccoli vuoti, cioè se il “fitting” non è perfetto, si può, con molta attenzione e mascherando con il nastro le parti che non devono essere coperte, fare uno stucco al volo con della polvere di acero e della colla cianoacrilica e riempire i vuoti con lo stucco.</p>
+<p>In tutte le zone in cui è fuoriuscita della colla, specialmente ai tasti, si può rimuovere usando uno scalpello da 2 o 3 mm.</p>
+</section>
+<section id="foro-di-accesso-al-truss-rod" class="level3">
+<h3 class="anchored" data-anchor-id="foro-di-accesso-al-truss-rod">Foro di accesso al truss rod</h3>
+<p>Con una punta da 10mm lunga si esegue il foro di accesso al truss rud. L’operazione è molto delicata e ci vuole un po’ di esperienza. Bisogna impostare un angolo di perforazione che garantisca la possibilità di inserire una chiave esagonale e che la rotazione del dado sia libera. È preferibile costruirsi una dima dedicata, anche se in questo caso il foro è stato praticato dal maestro senza nessun tipo di supporto.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/image-1838629159.png" class="img-fluid" width="500"></p>
+<p>Con questa operazione si concludono le lavorazione sul manico! 🎉</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/index.html</guid>
+  <pubDate>Mon, 15 Jan 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part7/Images/copertina_parte7.png" medium="image" type="image/png" height="192" width="144"/>
+</item>
+<item>
+  <title>Tele-novela-parte6</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-baseball-bat-neck" class="level2">
+<h2 class="anchored" data-anchor-id="the-baseball-bat-neck">The baseball bat neck</h2>
+<p>Obiettivo: mazza da baseball!</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/https:/media.giphy.com/media/NYgs4gaWSCCkWLGH2T/giphy.gif" class="img-fluid" width="557"></p>
+<p>La tastiera si presenta ben incollata. Il buon incollaggio è garantito anche da un serraggio fatto bene: la pratica vuole che si usino 7 morsetti per il manico, la cui spaziatura risulta sufficiente da distribuire uniformemente la pressione su tutta la lunghezza della tastiera.</p>
+<div id="fig-manico-incollato" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230320_183953173.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">a</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230320_184002628.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">b</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230320_184012774.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">c</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230320_184025873.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">d</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Come si presenta la tastiera dopo l’incollaggio.</figcaption><p></p>
+</figure>
+</div>
+<p>Nelle figure “a” e “d” si nota il foro passante che è servito per inserire dei chiodi di un paio di mm spessore. Servono per vincolare la tastiera alla manico una volta stesa la colla. Si procede in questo modo:</p>
+<ol type="1">
+<li><p>si tracciano gli assi longitudinali del manico e della testiera</p></li>
+<li><p>con del nastro biadesivo si incolla temporaneamente la tastiera al manico facendo attenzione a far combaciare gli assi di tastiera e manico</p></li>
+<li><p>si effettuano 2 fori (al primo e all’ultimo tasto) circa ad 1/3 di larghezza, in modo da non perforare il truss-rod</p></li>
+<li><p>si eseguono due fori circa del diametro del chiodo</p></li>
+<li><p>si piantano i chiodi e con una tenaglia si tagliano le teste, lasciando quindi la possibilità di estrarre la tastiera lasciando i chiodi in sede</p></li>
+<li><p>si rimuove la tastiera e si procede alla stesura della colla (non troppa), ci si può servire di uno spazzolino da denti</p></li>
+<li><p>si rimette in posizione la tastiera sfruttando i fori guida e si applicano i morsetti facendo ricorso ad un pezzo di legno sufficientemente spesso su cui i morsetti fanno presa</p></li>
+</ol>
+<section id="sagomatura-del-profilo-del-manico" class="level3">
+<h3 class="anchored" data-anchor-id="sagomatura-del-profilo-del-manico">Sagomatura del profilo del manico</h3>
+<p>Da questo momento in poi inizia la lunga fase della sagomatura del manico. Questo è il momento più delicato di tutta la costruzione della chitarra, e lo spazio per non commettere errori è molto stretto.</p>
+<p>La prima lavorazione fatta dopo aver tolto i morsetti è stata quella del taglio alla sega a nastro lungo profilo. Durante il taglio si cerca di stare il più vicino possibile alla linea del contorno (un paio di mm) in modo da non fare troppo lavoro con la raspa e la carta abrasiva.</p>
+<p>Successivamente è iniziata la fase di lavorazione con la raspa. La prima faccia lavorata è stata quella della parte superiore della paletta, ovvero la linea parallela alle meccaniche.</p>
+<div id="fig-primafaccia" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230327_190500100.jpg" class="img-fluid figure-img" width="400"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Prima lavorazione con la raspa</figcaption><p></p>
+</figure>
+</div>
+<p>Si è passato successivamente ai fianchi, cioè ai piani lunghi e dritti. Bisogna stare molto attenti a mantenere il parallelismo con la linea, è molto facile andare storti o lasciare buchi o avvallamenti. In ogni caso con la raspa bisogna cercare di arrivare a ridosso della linea.</p>
+<p>Per fare in modo che il fianco venga dritto si può costruire una dima fatta con un pezzo di multistrato alto (circa 3cm), assicurandosi che sia piano, e su cui si incolla della carta a grana grossa (80/120).</p>
+<div id="fig-dimerettifica" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230515_191741868.jpg" class="img-fluid figure-img" width="375"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;3: Dima per rettificare i lati lunghi del manico con carta abrasiva</figcaption><p></p>
+</figure>
+</div>
+<p>Dopo aver fatto un bel solco con la raspa all’altezza del capotasto tasto del MI basso, e per mia paura di fare altri solchi con la raspa ho iniziato a carteggiare quando non ero ancora ben vicino alla linea, questo ha comportato impiegare diverse ore nel carteggiare. I passaggi sulla carta pareggiano completamente il piano, che viene alla fine uniforme e parallelo alla linea bisogna però avere l’accortezza di premere il pezzo e contemporaneamente tenerlo a squadro.</p>
+<p>A differenza delle parti lunghe e dritte, lavorare le parti curve con la raspa è un piacere, certamente un’operazione meno stressante. Finite le facce più lunghe, si è passato a asportare con la raspa le zone curve della paletta.</p>
+</section>
+<section id="paletta-a-spessore-finale-e-raccordi-vari" class="level3">
+<h3 class="anchored" data-anchor-id="paletta-a-spessore-finale-e-raccordi-vari">Paletta a spessore finale e raccordi vari</h3>
+<div id="fig-primafaccia" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230529_174520208.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">a</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230529_192150531.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">b</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;4: Raccordo curvilineo tra capotasto e spessore finale della paletta.</figcaption><p></p>
+</figure>
+</div>
+<p>Una lavorazione tutto sommato non troppo difficile è stata quella di portare la paletta al suo spessore, cioè pari a 15mm. Si traccia un profilo curvo partendo da 5 mm dal copotasto e si raccorda con un profilo rettilineo lungo il contorno ad altezza fissa. Si procede dapprima con il lato tondo di una raspa nella zona vicina al capotasto e si porta il punto più in basso fino a toccare lo spessore finale. Poi una raspa piatta si asportano il materiale sul piano fino a raggiungere lo spessore.</p>
+<p>Poi si è passato a raccordare gli spigoli del manico nella parte dello scasso in modo che siano perfettamente coincidenti quelli realizzata dalla fresata nello scasso del body. Questa operazione può essere fatta con una raspa leggera facendo molta attenzione.</p>
+<div id="fig-primaunione" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230529_174353238.jpg" class="img-fluid figure-img" width="375"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;5: Prima prova di unione tra manico e corpo.</figcaption><p></p>
+</figure>
+</div>
+<p>Tutto questo lavoro di asportazione con raspa e carta abrasiva può durare anche diversi giorni. Però alla fine di questa fase intermedia si inizia vedere una chitarra completa, ed è finalmente una bella soddisfazione.</p>
+</section>
+<section id="profilo-della-sezione-del-manico" class="level3">
+<h3 class="anchored" data-anchor-id="profilo-della-sezione-del-manico">Profilo della sezione del manico</h3>
+<p>Completata la sagoma principale, si passa alla lavorazione della sezione trasversale del manico. In questa operazione l’esperienza conta tantissimo perché è una lavorazione lunga, delicata, e che richiede un controllo continuo dell’avanzamento.</p>
+<div id="fig-quoteseztrasv" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230612_191037930.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">a</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230612_191049342.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">b</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;6: Quotatura per le lavorazioni della sezione trasversale del manico.</figcaption><p></p>
+</figure>
+</div>
+<p>La lavorazione della parte posteriore del manico inizia con la quotatura e il disegno delle sagome, sia al tacco che alla paletta. Al tacco si disegna una sorta di campana simmetrica il cui punto massimo interseca l’asse longitudinale e alla paletta si disegna un profilo curvilineo a campana rovesciata asimmetrico. Il disegno in questo caso è stato fatto dal maestro liutaio ad occhio, quindi non riesco a riportare le misure esatte. La quotatura si completa tracciando, lungo l’asse, i punti estremi dell’intervallo in cui il manico ha un andamento lineare. All’esterno dell’intervallo il raccordo è curvilineo e sinuoso con le quotature del tacco e della paletta.</p>
+<div id="fig-lavorazioneseztrasv1" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230619_174514881.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">a</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230619_185151631.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">b</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230619_185207262.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">c</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;7: Lavorazione delle sezioni trasversali di riferimento e raccordo con tacco e paletta.</figcaption><p></p>
+</figure>
+</div>
+<p>Si inizia quindi a lavorare con la raspa tonda il profilo della sezione trasversale in tre punti: agli estremi dell’intervallo di linearità e in mezzeria dell’intervallo stesso. Nel mio caso ho scelto un profilo trasversale molto bombato, che richiama i manici vintage anni ’60/70 (insomma una mazza da baseball). In questo caso le quote di riferimento sono 23, 24, 25 mm, rispettivamente a partire dall’estremo vicino al capotasto, e prese a partire dal piano della tastiera lungo la sua perpendicolare. Si procede quindi asportando materiale in direzione parallela al piano della tastiera raggiungendo nei 3 punti all’incirca le quote desiderate. I punti nelle immediatamente vicinanze all’asse sono, quindi, quelli più delicati perché danno il riferimento per la quota. Contemporaneamente si lavora anche il contorno curvilineo della sezione. Qui entra in gioco l’esperienza e l’occhio per le forme, e bisogna stare attenti a garantire un profilo simmetrico rispetto all’asse longitudinale.</p>
+<p>Finita questa prima parte, si procede ad una prima sgrossatura di raccordo tra i punti estremi dell’intervallo di linearità con le forme sinuose di tacco e paletta. Anche in questo caso si procede con la raspa tonda stando attenti a non oltrepassare il tracciato.</p>
+<div id="fig-lavorazioneseztrasv2" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230619_193630455.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">a</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/PXL_20230619_204724873.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">b</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;8: Lavorazione della sezione del manico con il pialletto per sagomare.</figcaption><p></p>
+</figure>
+</div>
+<p>A questo punto, quando il profilo della sezione trasversale e le sezioni di riferimento sono a misura, si procede ad asportare la parte rimanente di materiale con un pialletto per sagomare (o “vastringa”, v. Figure&nbsp;8). Un po’ alla volta il manico prende forma. Quando si arriva all’incirca ad 1 mm dalla quota finale, si utilizza la raspa facendo delle passate continue in direzione longitudinale, unendo con continuità i punti di riferimento. La lavorazione termina carteggiando con grana 220 e, a salire, 320. Ci si serve di un blocchetto rigido di forma allungata. Le passate con la carta devono essere continue e lineari. È molto importante nelle fasi finali della lavorazione (raspa e carteggio) controllare frequentemente la linearità del manico, servendosi di uno squadro opportuno. Puntando una lampada da dietro si può controllare se passa la luce sotto la riga. In questo caso si interviene con la carta a pareggiare.</p>
+<div id="fig-lavorazioneseztrasv3" class="quarto-layout-panel">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/copertina_parte6.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">a</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/controllo_linearita.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">b</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;9: Carteggio e controllo linearità del manico.</figcaption><p></p>
+</figure>
+</div>
+<p>Le lavorazioni di sagomatura e profilatura del manico sono completate. È molto probabile che successivamente si debba tornare con la carta a lavorare alcune zone che al tatto sembrano sporgenti. Mi è capitato di doverci tornare più volte perché sentivo con i polpastrelli che c’era qualcosa che non andava. L’esperienza qui è tutto, ma in ogni caso la forma del manico è molto personale e può essere adattata alle proprie esigenze.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/index.html</guid>
+  <pubDate>Thu, 21 Sep 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part6/Images/copertina_parte6.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tele-novela-parte5</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-anti-shred-neck" class="level2">
+<h2 class="anchored" data-anchor-id="the-anti-shred-neck">The anti-shred neck</h2>
+<p>Finalmente il manico!</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/https:/media.giphy.com/media/sBikoeGRyOrK0/giphy.gif" class="img-fluid"></p>
+<p>Nella costruzione del <em>body</em> è accettabile avere qualche piccolo errore, che può essere aggiustato in un secondo momento o coperto con la verniciatura. Ad esempio nel fresare gli scassi dei pickup è stata commessa una sbavatura rovinando l’area nelle vicinanze della vite del pickup al manico. Questo errore sarebbe stato un bel problema se avessi avuto una verniciatura trasparente con venature a vista, ma nel mio caso verrà tutto coperto dal battipenna, quindi poco male.</p>
+<p>Nel caso del manico, qualsiasi piccolo errore può portare al disastro. Speriamo di riuscirci ed arrivare fino alla fine, in questo episodio racconto i passi necessari per arrivare all’incollaggio di tastiera e manico.</p>
+<p>Da un pezzo di acero grezzo sono stati ricavati due pezzi, tagliati con la sega a nastro lungo vena. I due pezzi sono stati quindi calibrati con la pialla a spessore e portati a 20 mm e 6 mm rispettivamente per il manico e per la tastiera.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-829326565.png" class="img-fluid"></p>
+<p>Una particolare da tenere a mente nella costruzione della tastiera è la disposizione della venatura del legno, che determina l’aspetto del manico, ma soprattutto la disposizione degli anelli di accrescimento. Questi devono essere rivolti con la concavità verso l’alto, in tal modo, se mai si dovesse imbarcare il legno, agendo sul trus rod è possibile tornare alla condizione iniziale.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-1452876642.png" class="img-fluid" width="600"></p>
+<section id="tracciatura-e-quotatura" class="level3">
+<h3 class="anchored" data-anchor-id="tracciatura-e-quotatura">Tracciatura e quotatura</h3>
+<p>Stabilito il verso del pezzo da lavorare, si passa al tracciamento e quotatura con una matita del profilo del manico su tutte e due le facce. Per questa operazione è stata utilizzata una dima costruita sulla sagoma di un manico telecaster classico. La procedura della tracciatura è fatta con i seguenti passi:</p>
+<ol type="1">
+<li><p>Si traccia il perimetro esterno e i fori cercando di centrare il più possibile la dima al pezzo da lavorare;</p></li>
+<li><p>Si trova l’asse principale, segnando due punti appartenenti all’asse sufficientemente lontani tra loro, e si procede al tracciamento con una riga lunga;</p></li>
+<li><p>Si procede a riportare l’asse sull’altra faccia. In questa operazione è necessario prestare la massima cura, ci vuole molta precisione. Una matita appuntita e una squadretta da falegname sono fondamentali.</p></li>
+<li><p>Si riportano poi almeno due quote in modo da posizionare correttamente la dima sull’altra faccia. Io ho scelto una estremità della dima e la linea coincidente con l’asse che passa per i fori della base del manico (v. Figure&nbsp;2)</p></li>
+</ol>
+</section>
+<section id="lavori-preliminari-alla-tastiera" class="level3">
+<h3 class="anchored" data-anchor-id="lavori-preliminari-alla-tastiera">Lavori preliminari alla tastiera</h3>
+<p>Si inizia nel frattempo a lavorare alla tastiera. Per prima cosa si crea una costa dritta e a squadro con un pialletto. Poi si traccia sull’altra costa una linea dritta a 63 mm dallo spigolo appena piallato. Quindi, si pialla l’altra costa portando lo spessore della tastiera a circa 63 mm (mi sono fermato appena sopra la linea della matita). In questo modo si ottengono due coste a squadro e circa a misura.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-1284489814.png" class="img-fluid"></p>
+</section>
+<section id="slotting-dei-tasti" class="level3">
+<h3 class="anchored" data-anchor-id="slotting-dei-tasti">Slotting dei tasti</h3>
+<p>Per l’operazione di taglio del canale dei tasti è necessario utilizzare degli strumenti specifici. In particolare servono una dima per lo <em>slotting</em> e una sega con lama di 0.5 mm. La dima è fondamentale per garantire la perpendicolarità del taglio del canale. Quella usata credo sia in alluminio, ma non sembra complicatissimo autocostruirsene una in legno (<a href="https://www.youtube.com/watch?v=RmBd3bhHNiU">fret slotting jig</a>), oppure si possono modificare quelle dime per cornici. In ogni caso è necessario che la lama non abbia nessun gioco e che il taglio sia perfettamente a 90°. Si procede incollando la tastiera con del nastro biadesivo ad una piastra metallica facendo in modo che il lato lungo sia parallelo all’asse principale della dima. La piastra possiede una serie di fori distanziati in modo da rispettare la scala dei tasti. I fori servono come riferimento nel momento in cui si procede dal taglio di un canale ad un altro muovendo la piastra in avanti. Un piccolo chiodo con molla si inserisce nel foro e blocca la piastra in posizione. Per bloccare meglio il pezzo si utilizzano dei cunei.</p>
+<p>La sega è di uno spessore così piccolo che è difficile reperirla se non nei negozi specializzati in liuteria. Un’alternativa un po’ più sbrigativa sarebbe quella di usare un Dremel o una fresatrice con una punta piccola, assieme ad una dima dedicata.</p>
+<div id="fig-dima_slotting" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-850246814.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Slotting dei tasti con dima.</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="scasso-per-alloggiamento-del-truss-rod" class="level3">
+<h3 class="anchored" data-anchor-id="scasso-per-alloggiamento-del-truss-rod">Scasso per alloggiamento del truss rod</h3>
+<p>Giunti allo scasso del <em>truss rod</em> si procede tracciando la posizione dello tasto 0, ovvero del capotasto, posto a 468 mm dalla base. Poi si prende una distanza di 460 mm dallo 0, verso la base, la rappresenta l’estensione dello scasso del <em>truss rod</em>.</p>
+<p>Anche in questo caso ci si serve di una dima dalla costruzione molto semplice: tre pezzi di legno a formare un alloggiamento sufficientemente grande e dalla larghezza calibrata sul piatto della fresatrice in modo che la larghezza del canale dello scasso sia esattamente 6 mm.</p>
+<p>Si posiziona il manico facendo riferimento al suo asse tracciato in precedenza. L’asse del manico deve essere collineare con l’asse della dima. Con due viti (o con del nastro biadesivo) si unisce il manico alla dima. La fresata avviene con passate successive fino ad una profondità di 9.2 mm. La profondità dello scasso delle essere tale che il <em>truss rod</em>, una volta in posizione,deve essere a filo con la faccia superiore del manico. Inoltre, l’alloggiamento del <em>truss rod</em> deve essere perfetto sia in larghezza che in lunghezza della barra: non ci deve essere nessun gioco in nessuna direzione.</p>
+<p>Nel mio caso lo scasso era appena più stretto, specialmente nella parte della testa della barra, dove l’alloggiamento deve essere approfondito appena un po’ di più in modo tale che la testa sia completamente a filo. Il lavoro è stato completato con un paio di ceselli affilati.</p>
+<div id="fig-truss" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-358085078.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Fresatura dello scasso per il truss rod.</figcaption><p></p>
+</figure>
+</div>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-83900485.png" class="img-fluid"></p>
+</section>
+<section id="incollaggio" class="level3">
+<h3 class="anchored" data-anchor-id="incollaggio">Incollaggio</h3>
+<p>Una volta inserito il <em>truss rod</em> si procede all’incollaggio di tastiera a manico. Anche in questo caso è stata usata una colla alifatica (Titebond classica rossa). È importante non esagerare con la colla, ma comunque non metterne troppo poca. Ci si può aiutare con un pennellino per distribuire uniformemente la colla. Bisognerebbe evitare inoltre di spalmare colla in corrispondenza della barra, anche se non è fondamentale essere meticolosi, anche se un po’ di colla tocca il <em>truss rod</em> non fa danni.</p>
+<p>Il serraggio avviene per mezzo di 7 morsetti. La pressione è distribuita uniformemente con l’aiuto di un bel pezzone di legno. Nella fase di unione di tastiera e manico è fondamentale allineare l’asse della tastiera, precedentemente tracciato un modo accurato, e l’asse del manico. Nel momento in cui si vanno a serrare i morsetti bisogna assicurarsi che gli assi di tastiera e manico siano collineari.</p>
+<p>Il tempo di asciugatura della colla è di 24-48 ore, nel mio caso ho tenuto tutto morsettato per almeno 4 giorni.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/image-71466536.png" class="img-fluid"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/index.html</guid>
+  <pubDate>Fri, 14 Apr 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part5/Images/copertina_parte5.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tele-novela-parte4</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="route-to-hell" class="level2">
+<h2 class="anchored" data-anchor-id="route-to-hell">Route to hell</h2>
+<p>Finalmente un po’ di polvere fine da elettroutensile!</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/https:/media.giphy.com/media/5C9fPAugz3FAn29U31/giphy.gif" class="img-fluid"></p>
+<p>Nella <a href="../../posts/guitar-bluid-part3/index.html">parte III</a>, dopo aver carteggiato all’infinito, avevamo lasciato il corpo della chitarra completamente liscio ai fianchi, con uno spigolo di 90° tra i fianchi e le facce del corpo. È bene tenere a mente però che il raccordo finale tra le facce e i fianchi del corpo non può rimanere ad angolo retto, ma bisognerà procedere ad una stondatura. Il raggio del raccordo cambia tra i modelli, ad es. la telecaster ha un raggio di 3/16’’ (circa 5 mm), mentre la stratocaster ne ha uno di 1/2’’ (circa 13 mm). Più avanti vedremo perché è utile rimandare alla fine la stondatura di raccordo tra le facce e i fianchi.</p>
+<section id="dima-per-scassi-precisi" class="level3">
+<h3 class="anchored" data-anchor-id="dima-per-scassi-precisi">Dima per scassi precisi</h3>
+<p>Ok, ora il discorso si fa interessante.</p>
+<p>Entra in gioco la CNC! Ebbene sì, abbiamo usato la fresatrice a controllo numerico per creare una dima ad-hoc per il modello di corpo scelto. Nonostante Marco, il maestro, abbia una quantità infinita di dime, specialmente modello telecaster, ne manca sempre qualcuna per riempire l’infinito catalogo Fender.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/image-1278631774.png" class="img-fluid" width="600"></p>
+<p>La dima, fatta in mdf da 8 mm, è stata realizzata per il modello Fender Vintera Deluxe che ha due humbucker “wide range” (con la placchetta in metallo). Il modello che ho scelto io (<a href="../../posts/guitar-bluid-part1/index.html">parte I</a>) invece è una Fender Vintera Custom, che ha un humbucker al manico e un single coil classico telecaster al ponte. La dima è stata usata per tutti gli scassi, tranne uno, quello per il pickup al ponte, per il quale è stata utilizzata una dima classica telecaster, con la solita forma quasi ovale.</p>
+</section>
+<section id="posizionamento-e-tracciatura" class="level3">
+<h3 class="anchored" data-anchor-id="posizionamento-e-tracciatura">Posizionamento e tracciatura</h3>
+<p>Con la dima pronta e fresata, questa va centrata rispetto all’asse del corpo della chitarra. Se il corpo è costruito dall’unione di due pezzi, ci si affida alla giunzione, che fa anche da asse di riferimento. Nel mio caso, avendo usato 3 pezzi, il corretto posizionamento della dima non può fare affidamento sulla giunzione, infatti, come si vede anche dalla figura, il giunto è totalmente fuori asse di simmetria. In questo caso, quello che mi è stato suggerito di fare, è quello di allineare la dima prendendo a riferimento la proiezione della faccia nel lato lungo dello scasso del manico.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/image-261548050.png" class="img-fluid" width="600"></p>
+<p>Una volta sistemata la dima al meglio, si procedere a tracciare per bene tutte le aperture sul corpo. Come si vede dalla figura il lato opposto dello scasso del manico non è allineato alla perfezione con l’impronta della dima. Questo non sembra essere un problema (o meglio, pare non esserlo, visto che nel momento in cui scrivo sono ancora a metà dell’opera, quindi chissà…), è possibile in un secondo momento rifinire per bene il contorno con carta vetrata e qualche tocco con la raspa in modo che combaci con la forma finale.</p>
+</section>
+<section id="fresatura" class="level3">
+<h3 class="anchored" data-anchor-id="fresatura">Fresatura</h3>
+<p>Ora è il momento metal (yeah! 🤘), dopo giorni di classica a far il pelo alla piccola sbavatura 🎻! Una volta posizionata la dima si procede, per mezzo di nastro biadesivo, al suo incollaggio temporaneo, cercando di stare attenti a riposizionare la dima sul <em>body</em> centrando le linee precedentemente tracciate.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/nastro_biadesivo.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">Dima con nastro biadesivo</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/scassi_quotati.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">Scassi con profondità quotate</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>Il taglio con la fresatrice è abbastanza semplice da realizzare, tuttavia non è il massimo della sicurezza per chi, come me, non è pratico di tagli con elettroutensili. Innanzitutto, c’è da dire che per la realizzazione di questi scassi non è strettamente necessario avere una fresatrice professionale, una da hobbista da un centinaio di euro va più che bene, l’importante è che abbia il meccanismo ad affondamento che, oltre ad avere un maggiore controllo con le due mani, da la possibilità di una regolazione di precisione lungo la verticale. Ovviamente le frese devono essere a taglienti dritti con cuscinetto a copiare. L’altezza della fresa può variare a seconda della fase in cui ci troviamo: inizialmente bisogna usare una fresa con lunghezza di taglio piccola, in modo da non sforzare troppo l’elettroutensile in affondamento; si procede a rimuovere progressivamente gli strati di materiale avanzando un po’ alla volta (~5 mm); quando si è arrivati alla massima escursione possibile dell’utensile, è necessario cambiare la fresa con una più lunga.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/schema_fresatura.png" class="img-fluid figure-img" width="600"></p>
+<p></p><figcaption class="figure-caption">Affondamento ottimale fresa</figcaption><p></p>
+</figure>
+</div>
+<p>Non è facile stabilire a priori l’altezza di scavo massima (affondamento), perché molto dipende dagli strumenti a disposizione, in generale può valere quanto consigliato dalla Fraiser:</p>
+<blockquote class="blockquote">
+<p><em>La regola pratica che devi ricordarti è di non superare la metà dell’altezza del tagliente oppure 2 volte il diametro della fresa. Scegli il valore più piccolo dei 2 per fresare senza brutte sorprese.</em></p>
+</blockquote>
+<p>Quando l’affondamento del cuscinetto supera lo spessore <img src="https://latex.codecogs.com/png.latex?s"> della dima, il cuscinetto continuerà a copiare la forma precedentemente fresata e, di fatto, a copiare la forma iniziale senza soluzione di continuità. A questo punto l’unico limite è la lunghezza della fresa sommata alla massima escursione della fresatrice.</p>
+<p>Le profondità degli scassi sono misurate continuamente mano a mano che viene asportato materiale con la fresatrice. Nella figura di sopra sono riportate le profondità finali misurate con calibro digitale. Tra tutte, quella più importante è quella relativa all’alloggiamento del manico, che deve essere di 16 mm (16.5 mm è quella misurata). Anche, gli scassi dei pickup devono essere precisi, specialmente quello al ponte, che deve essere di 18 mm. Gli altri possono avere un po’ di margine in più o in meno perché sono quelli dove alloggeranno i componenti elettronici. Infine, l’humbucker al manico presenta due cavità aggiuntive che arrivano ad una profondità di scavo inferiore, nelle quali alloggeranno le viti di regolazione del pickup.</p>
+</section>
+<section id="fori" class="level3">
+<h3 class="anchored" data-anchor-id="fori">Fori</h3>
+<p>Nella mia applicazione, i fori da eseguire sul body possono essere elencati come segue:</p>
+<ol type="1">
+<li><p>#1 D22mm, con fresa a tazza, per l’alloggiamento del jack da 1/4’’</p></li>
+<li><p>#1 D4mm, con una punta lunga, per l’uscita dei cavi del pickup al ponte nel canale di raccolta della cavetteria</p></li>
+<li><p>#4 D4mm, con punta da legno classica, per l’alloggiamento delle viti del manico</p></li>
+</ol>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/foro_jack.png" class="img-fluid figure-img" width="300"></p>
+<p></p><figcaption class="figure-caption">1. Foro jack 1/4’’</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/foro_pickup_ponte.png" class="img-fluid figure-img" width="300"></p>
+<p></p><figcaption class="figure-caption">2. Foro pickup ponte</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/fori_manico.png" class="img-fluid figure-img" width="300"></p>
+<p></p><figcaption class="figure-caption">3. Fori manico</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>Mentre i fori 1. e 2. sono stati realizzati con un classico trapano a batteria, i fori al manico devono essere molto precisi, per cui è stato utilizzato il trapano a colonna. Per realizzarli sono stati prima punzonati i punti nella faccia posteriore del <em>body</em> prendendo a riferimento direttamente la mascherina metallica, posizionando quest’ultima a circa 4mm dal bordo. La punzonatura è importante perché crea un invito autocentrante nel momento in cui la punta approccia il punto da forare.</p>
+</section>
+<section id="raccordo-316" class="level3">
+<h3 class="anchored" data-anchor-id="raccordo-316">Raccordo 3/16’’</h3>
+<p>Infine, l’ultima lavorazione è il raccordo tra le facce e la superficie laterale, finora lasciata a spigolo vivo. Anche questa operazione, che richiede l’utilizzo di raspa e carta abrasiva, necessita la solita maniacale attenzione perché estremamente sensibile alla minima sbavatura.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/raccordo1.png" class="img-fluid" width="300"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/raccordo2.png" class="img-fluid" width="300"></p>
+</div>
+</div>
+</div>
+<p>Nel caso della telecaster, il raccordo è di 5/16’’, che corrispondono a circa 5mm. Si è proceduto innanzitutto tracciando linee con offset di 5mm dallo spigolo su tutte le superfici. Con una raspa non troppo grande viene poi asportato il materiale agendo in senso circolare. In questa fase bisogna fare attenzione a non creare un piano a 45°, bensì bisogna accompagnare la curvatura e dando forma al raccordo. Gli unici spigoli da non toccare con la raspa sono quelli della zona posteriore allo scasso del manico: in questo caso si agirà solamente con carta abrasiva.</p>
+<p>Una volta completata la sagomatura del raccordo con la raspa, si da una passata a mano con pezzetti di carta abrasiva, con la grana in progressione 120, 220, 320. Con la carta bisogna fare passate molto leggere, senza esercitare pressione: l’obbiettivo è di togliere i segni della raspa e di rendere tutto più liscio.</p>
+<div class="callout-warning callout callout-style-simple">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p>Con la raspa, che ormai è ufficialmente la mia nemica #1 in questa costruzione, in uno solo caso non sono stato attento e ho asportato troppo. Il risultato è che, anche dopo aver carteggiato, passando con i polpastrelli si avverte un leggero avvallamento nella traiettoria del contorno…purtroppo è così, l’anti-caster si arricchisce di imperfezioni. Vedremo se la verniciatura nasconderà o accentuerà questi errori.</p>
+</div>
+</div>
+</div>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/index.html</guid>
+  <pubDate>Thu, 09 Feb 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part4/Images/copertina_parte4.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tele-novela-parte3</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="enter-sand-man" class="level2">
+<h2 class="anchored" data-anchor-id="enter-sand-man">Enter sand-man 🤟</h2>
+<p>How does it feel to be alive?</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/https:/media.giphy.com/media/xClR7LXq7JF5u/giphy.gif" class="img-fluid"></p>
+<p>Una volta terminate le operazioni di asportazione del materiale con la raspa, la fase successiva è quella di levigare a mano (-&gt; sand-man…..hahhhhaahhahaah…. ehhmmm…😬) con molta cura il contorno del corpo della chitarra. L’obiettivo principale è quello di eliminare completamente i segni e i solchi lasciati dalla raspa, fino ad arrivare ad una superficie completamente liscia al tatto. Quando si leviga il legno bisogna prestare attenzione a non insistere troppo in un punto specifico, ma fare delle passate lunghe e continue. Questa cosa, che sembra all’apparenza banale da fare, in realtà non è così semplice. Viene infatti naturale strofinare velocemente i solchi lasciati dalla raspa come se si dovesse rimuovere una macchia da un tavolo. In generale l’operazione che va fatta è quella di strofinare un pezzetto di carta abrasiva su un supporto non eccessivamente duro per le parti continue. Nelle parti a forte curvatura, come quelle vicine allo scasso per il manico è necessario avvolgere la carta abrasiva ad un supporto cilindrico, che sia di raggio adeguato per i tratti più incurvati.</p>
+<section id="strumenti-di-lavoro" class="level3">
+<h3 class="anchored" data-anchor-id="strumenti-di-lavoro">Strumenti di lavoro</h3>
+<p>Gli strumenti usati in questa fase sono molto semplici da reperire:</p>
+<ul>
+<li><p>carta abrasiva a grana crescente: 120, 220, 320</p></li>
+<li><p>un blocchetto di gomma dura di spessore circa 1 cm</p></li>
+<li><p>un blocchetto di gomma morbida (spessore 1 cm) attaccata ad un blocco di legno</p></li>
+<li><p>nastro biadesivo (non strettamente necessario)</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/images/image-290274780.png" class="img-fluid figure-img" width="581"></p>
+<p></p><figcaption class="figure-caption">Blocchetto di gomma dura</figcaption><p></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/images/image-1977191442.png" class="img-fluid figure-img" width="600"></p>
+<p></p><figcaption class="figure-caption">Blocchetto di gomma morbida attaccata ad un pezzo di legno sagomato</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="fasi-della-lavorazione" class="level3">
+<h3 class="anchored" data-anchor-id="fasi-della-lavorazione">Fasi della lavorazione</h3>
+<p>Si parte strappando un pezzetto di carta abrasiva grana 120. Il pezzetto deve essere ai lati leggermente più grande del blocchetto di gomma in modo che con le mani si riesca a fare presa sulle alette che sbordano, le si piega e si fa aderire bene la carta alla parte piatta del blocchetto. Si inizia la levigatura facendo passate lunghe e, con la giusta pressione, si deve cercare di mantenere il blocchetto il più possibile parallelo al bordo. Se nella fase precedente di asportazione con la raspa non si è mantenuta la perpendicolarità tra la superficie delle facce e del bordo, nella fase di levigatura è praticamente impossibile recuperare gli errori commessi in precedenza. Probabilmente con qualche elettroutensile il discorso è diverso, ma in questo corso si fa tutto a mano, quindi ogni fase è cruciale per la buona riuscita di quella successiva. Infatti, la forma va data nella fase di sagomatura, mentre la levigatura ha il solo scopo di rimuovere i solchi, lisciare le superfici e riportare alla luce le venature del legno. Ogni tanto, ci si ferma per controllare la perpendicolarità della facce con il bordo, e soprattutto con la mano si deve sentire la superficie che progressivamente diventa liscia.</p>
+<p>Fatto il primo giro con la grana 120, si passa alla 220. In questo caso ho usato il blocchetto con la gomma morbida. Quando si inizia a salire di grana ci si accorge subito della meraviglia delle venature che vengono fuori dal legno, la superficie diventa sempre più liscia e gli spigoli sempre più affilati. A proposito di spigoli: mai stondare lo spigolo! Lo spigolo in tutte le fase di levigatura non deve <strong>MAI</strong> essere stondando, con il blocchetto le passate devono essere parallele alla superficie del bordo. Il raccordo tra le facce verrà fatto più avanti.</p>
+<p>Nella foto in basso si vede il supporto in gomma dura inserito in un tondino di metallo, che gli conferisce la giusta rigidità, e la carta abrasiva arrotolata alla gomma. Con questo accrocco si riesce a levigare bene le parti convesse, prestando sempre la massima attenzione nel cercare di rimanere paralleli alla faccia su cui si lavora. Bisogna procedere con la grana 220 fin quando non risultano ben visibili le venature e le sfumature degli anelli del legno.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/images/image-1861042565.png" class="img-fluid figure-img" width="600"></p>
+<p></p><figcaption class="figure-caption">Tondino in gomma dura per i tratti ad elevata curvatura</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="accuratezza-finale" class="level3">
+<h3 class="anchored" data-anchor-id="accuratezza-finale">Accuratezza finale</h3>
+<p>L’accuratezza finale della fase della levigatura dipende molto dal tipo di finitura che di decide di utilizzare. Se si sceglie una finitura trasparente, che sia lucida o opaca o tipo “sunburst”, che risalti le venature del legno, qualsiasi imperfezione, buco, dosso, ecc. viene messo in risalto. Pertanto è consigliato portare la levigatura fino alla grana 320, prestando la massima cura alle piccole imperfezioni.</p>
+<p>(💡) PRO-TIP. È capitato alcune volte di dare dei colpi accidentali, con la raspa, il calibro, altri oggetti appuntiti, al pezzo in lavorazione. Se si tratta di un buchetto millimetrico basta far cadere una goccia d’acqua (proprio una di numero) in modo da gonfiare i pori quanto basta, aspettare che asciughi e ripassare con la carta abrasiva.</p>
+<p>Nel caso in cui si scelga una finitura coprente, come nel mio caso (😉), si può evitare l’ultimo step e fermarsi alla grana 220. La vernice in questo caso andrà a riempire le piccole imperfezioni, tuttavia è comunque necessario che le superfici siano le più liscie possibile.</p>
+<p>Infine, per completare questa fase abbiamo anche portato il pezzo allo spessore finale, ovvero 45 mm, dando nuovamente una passata con la calibratrice… qui c’è poco da dire, con queste macchine si fa tutto in poche passate (<a href="../../posts/guitar-bluid-part2/index.html">Parte2</a> ). Per chi, come me, non ha intenzione di acquistare simili macchinari, ho visto su YouTube (<a href="https://www.youtube.com/watch?v=sz7N2uu6WJE&amp;ab_channel=WhiteGhost">spianatrice fai da te</a>) molti hobbisti utilizzare la fresatrice con due binari paralleli e una fresa a taglienti per spianare. Se mai dovessi avere in futuro un mio “laboratorio”, potrebbe essere una soluzione valida per portare i pezzi allo spessore necessario.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/index.html</guid>
+  <pubDate>Wed, 25 Jan 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part3/images/copertina_parte3.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tele-novela-parte2</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="rasp-that-or-die" class="level2">
+<h2 class="anchored" data-anchor-id="rasp-that-or-die">Rasp that or die!</h2>
+<p>Insomma tutto l’entusiasmo iniziale si è subito affievolito dopo aver passato giorni ad usare le raspe. E non è ancora finita… ma andiamo con ordine.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/https:/media.giphy.com/media/c8bdSxIpPiLmO692sf/giphy.gif" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<section id="tracciamento-del-contorno-e-prima-sgrossatura" class="level3">
+<h3 class="anchored" data-anchor-id="tracciamento-del-contorno-e-prima-sgrossatura">Tracciamento del contorno e prima sgrossatura</h3>
+<p>Una volta che la colla si è asciugata si passa a rimuovere i residui dell’incollaggio. In questa lavorazione si può usare sia una rasiera, attrezzo molto usato in liuteria, che un pialletto affilato. Con la rasiera si riesce certamente ad asportare in maniera molto accurata, tuttavia il materiale asportabile è pochissimo. L’ho usata infatti specialmente nella linea del giunto dove i residui di colla sono più pronunciati.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/paste-BA2665B2.png" class="img-fluid figure-img" width="400"></p>
+<p></p><figcaption class="figure-caption">Rasiera e pialletto</figcaption><p></p>
+</figure>
+</div>
+<p>Con il pialletto si fa una prima livellata, almeno ad una delle due facce. L’operazione di livellamento delle facce è molto importante e se fatta a mano può richiedere parecchio tempo e precisione. Piallare a mano per molti è un esercizio zen, che rilassa spirito e corpo, non la penso allo stesso modo, ma capisco la soddisfazione quando si producono quei riccioli di legno quasi trasparenti. Tuttavia, nella nostra applicazione, la fase di calibratura dello spessore è avvenuta tramite una macchina dedicata, una levigratrice a nastro, in grado di piallare (piccoli spessori) e levigare.</p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/paste-3F4691DA.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">Calibratrice</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/paste-D1823E5F.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">Taglio grossolano del body alla sega a nastro</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>Dopo queste operazioni si passa a scontornare in modo grossolano dando una prima forma al <em>body</em>. Per fare prima Marco ha usato la sega a nastro, in alternativa si può usare anche un seghetto alternativo o una sega giapponese.</p>
+<p>In foto si nota come sia importante tagliare il più vicino possibile al contrno, proprio per limitare le operazioni di sgrossatura con la raspa, e vi garantisco che non è per niente facile.</p>
+</section>
+<section id="sgrossatura-di-precisione-con-la-raspa" class="level3">
+<h3 class="anchored" data-anchor-id="sgrossatura-di-precisione-con-la-raspa">Sgrossatura di precisione con la raspa</h3>
+<p>E qui arriva il momento in cui ho (quasi) mandato in vacca il progetto, già dall’inzio. In questa fase, che poi è la prima lavorazione fatta da me, ho fatto molti errori, dettati da inesperienza, fretta e frustazione. L’obiettivo della lavorazione è quello di asportare più materiale possibile fino al contorno tracciato a matita, mantenendo <strong>SEMPRE</strong> la perpendicolarità della costa con le facce.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/paste-00BF9403.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">Attrezzi necessari per la profilatura del contorno del body</figcaption><p></p>
+</figure>
+</div>
+<p>L’attrezzatura necessaria in questa fase è composta essenzialmente da:</p>
+<ol type="1">
+<li><p>Squadretta da meccanica. Quella in foto l’ho comprata su amazon a circa 20€. La squadra è fondamentale in questa lavorazione, e anche nelle successive, tanto che ne è suggerito l’acquisto a chi frequenta il corso.</p></li>
+<li><p>Raspe. Generalmente le raspe hanno due facce, una piatta che permette di andare più veloci nei tratti poco curvi, l’altra, stondata, che serve invece nei punti a maggiore curvatura.</p></li>
+<li><p>Morsa a gamba. Attrezzo da non sottovalutare. Se il pezzo non è saldamente fermo e solidale con il banco non si riesce a lavorare. Ho visto in rete soluzioni alternative, con T-track e morsetti, ma la soluzione più efficace è avere un bel banco pesante e una morsa a gamba, molto comune nei banchi di falegnameria tradizionale.</p></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/paste-F0104F35.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">F. usa la parte stondata della raspa per le parti a maggiore curvatura</figcaption><p></p>
+</figure>
+</div>
+<p>Imparare ad usare la raspa non è stato per niente facile. Richiede parecchia attenzione e precisione, assieme anche ad una postura comoda. Bisogna, infatti, asportare materiale tenendo sempre la raspa il più possibile parallela alla faccia che si sta lavorando. Aiutandosi con l’altra mano (v. foto ⬆️) e con un po’ di esercizio si riesce, ma è necessario sempre controllare con l’avanzamento della lavorazione la perpendicolarità con il davanati e il dietro (<em>be a square, don’t be there</em>).</p>
+<p>All’inizio non mi erano chiari i movimenti da fare e tendevo inconsapevolmente ad asportare sempre dallo stesso lato. Mi sembrava assurdo dover controllare con la squadretta ogni 3x2, e invece era proprio la mancanza di controlli ripetuti che mi ha fregato. Ci vuole molta pazienza: bisogna asportare pochi decimi di mm e controllare, ed avanzare man mano, asportare poco, controllare e così via, su tutto (TUTTO!) il contorno.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/paste-030EDE3D.png" class="img-fluid figure-img" width="500"></p>
+<p></p><figcaption class="figure-caption">Avanzamento anti-caster al 14/11/2022</figcaption><p></p>
+</figure>
+</div>
+<p>Il pasticcio nella prima fase della lavorazione mi ha costretto a dover invertire la faccia che avevo preso a riferimento, ritracciare a matita il contorno, spostandolo di qualche mm rispetto al tracciamento precedente e, una volta verificato che il contorno stesse all’interno dei confini del pezzo, riniziare da capo. Per evitare di ripetere l’errore fatto all’inzio in alcune zone ho segnato a matita (con un “NO”, v. foto ⬆️) le parti che non dovevo assolutaente toccare perché ero già arrivato al filo del contorno.</p>
+<p>Insomma, alla fine verificando la forma con la dima ci sono differenze sostanziali, forse 1 mm o più in alcune zone. Una differenza che non si vede sicuramente a distanza, ma che per un liutaio sono uno spillo in un occhio.</p>
+<p>Il risultato allo stato attuale è che alla fine sarà una tele veramente, diciamo così, “custom” (eufemismo per appellare una robaccia). La chiamerò <strong>anti-caster</strong>, cioè una anti chitarra, una non fender, la mia nemesi: è il castigo per aver avuto fretta in un lavoro che richiede una calma estrema, una pazienza zen e molta, molta attenzione ai dettagli.</p>
+<p>La raspa sarà un attrezzo fondamentale in tutto il corso, la ritroveremo sicuramente nella lavorazione del manico, si spera che per le prossime volte il minimo di esperienza accumulata servirà a non commettere gli stessi errori.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/index.html</guid>
+  <pubDate>Fri, 25 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part2/images/morsa.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Tele-novela-parte1</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="ho-iniziato-un-corso-di-liuteria-elettrica" class="level2">
+<h2 class="anchored" data-anchor-id="ho-iniziato-un-corso-di-liuteria-elettrica">Ho iniziato un corso di liuteria elettrica! 🎸</h2>
+<p>Finalmente ho deciso! Dopo tanto tempo e i soliti rimandi che mi contraddistinguono ad ottobre 2022 inizio un corso di liuteria elettrica. Dopo le ore ore spese a guardare video YouTube e dopo aver cercato un po’ ovunque in rete possibilità di corsi “fisicamente basati” nelle vicinanze di Bologna, alla fine ne ho trovato uno coi vecchi metodi, ovvero tramite passaparola.</p>
+<p>Il maestro liutaio è <a href="https://www.liuteriamarcopontillo.com/home" title="liutaio">Marco Pontillo</a> e il fatto che non mi abbia ancora insultato, vista la mia goffaggine con attrezzi manuali, è sicuramente un punto a suo favore.</p>
+<p>Il corso durerà all’incirca un anno e il mio obiettivo è quello di raccontare e documentare le fasi della costruzione di una chitarra elettrica, nella speranza che il prodotto finale sia di qualità accettabile, o per lo meno che emetta qualche suono.</p>
+</section>
+<section id="scelta-del-modello-dei-materiali-e-fasi-preliminari" class="level2">
+<h2 class="anchored" data-anchor-id="scelta-del-modello-dei-materiali-e-fasi-preliminari">Scelta del modello, dei materiali e fasi preliminari</h2>
+<p>Al primo giorno di corso ci si conosce tra i corsisti e con Marco. Alcuni di loro sono già avanti con il lavoro fatto nel corso dell’anno precedente, anche se non tutti allineati con le fasi della lavorazione: c’è chi deve completare il corpo, chi il manico, chi le meccaniche, chi l’elettronica.</p>
+<section id="modello" class="level4">
+<h4 class="anchored" data-anchor-id="modello">Modello</h4>
+<p>La prima cosa che viene chiesta è la tipologia di chitarra che vogliamo realizzare tra quelle compatibili in un corso per principianti. E qui iniziano i primi dubbi, avevo in mente di fare una telecaster, ma poi in laboratorio vedo il corpo di una Jaguar e mi viene in mente quella volta in cui io e Kurt…. mmmm, vabbè, torniamo al body. Il maestro suggerisce come prima chitarra di scegliere tra una stratocaster e una telecaster, anche se lui, sostanzialmente, raccomanda di inizare con una tele perché richiede meno lavorazioni e quindi meno possibilità di sbagliare (vedremo se la statistica mi tradirà come sempre).</p>
+<p>Ho scelto alla fine una <a href="https://www.fender.com/it-IT/electric-guitars/telecaster/vintera-70s-telecaster-custom/0149722306.html">Telecaster ’70s vintera</a>, che dovrebbe in linea teorica essere così ⬇️</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/images/paste-81B62275.png" class="img-fluid"></p>
+<p>ma sicuramente la statistica, che è il termine scientifico di “sfiga”, imporrà variazioni e “personalizzazioni” nel percorso.</p>
+<p>Nel suo laboratorio Marco riesce anche a fornire un servizio di verniciatura a spruzzo con la finitura a piacimento, io ho deciso di verniciarla nera così come in foto, non so dire ora se verrà più lucida o opaca.</p>
+<p>Nel mio perenne cazzeggiare su YouTube scopro che Chris Shiflett, chitarrista dei Foo Fighters, ne possiede una simile, per cui mi rincuora sapere che è perfetta per chi non sa suonare! Inoltre ha una pedaliera terribile, il video lo trovate <a href="https://www.youtube.com/watch?v=7JbRoF2g7Fg" title="shiflett">qui</a>.</p>
+</section>
+<section id="materiali" class="level4">
+<h4 class="anchored" data-anchor-id="materiali">Materiali</h4>
+<p>Altra scelta che viene fatta dal corsista è il tipo di materiale per il corpo e per il manico. Altre cose, tipo le meccaniche, il ponte, i pickup e elettronica in questa fase non vengono minimamente presi in considerazione.</p>
+<ul>
+<li>I tipi di legno usato per il corpo sono sostanzialmente due o tre: ontano americano (<em>alder</em>), frassino (<em>ash</em>), okoume, pioppo</li>
+<li>nel caso del manico: acero con/senza tastiera in palissandro</li>
+<li>verniciatura del corpo si/no (aspetto importante)</li>
+</ul>
+<p>La decisione sulla verniciatura determina anche indirettamente il tipo di materiale usato per il corpo. Se, infatti, come nel mio caso si vuole ottenere un colore completamente coprente, non ha senso utilizzare dei materiali pregiati. In questo caso ontano americano va benissimo. Molti corsisti, invece, scelgono il corpo con finitura legno naturale. In questo caso vale la pena soffermarsi di più sulla scelta. Alcuni ad es. fanno un laminato <em>alder</em> + pioppo, quest’ultimo quando si aggiunge la finitura trasparente tira fuori delle venature pazzesche creando un effetto tridimensionale, decisamente psichedelico, infatti è il preferito dei nostalgici floydiani (tipicamente over ’60).</p>
+</section>
+<section id="ventaura-e-incollaggio-dei-pezzi" class="level4">
+<h4 class="anchored" data-anchor-id="ventaura-e-incollaggio-dei-pezzi">Ventaura e incollaggio dei pezzi</h4>
+<p>Una volta scelto il materiale per il corpo, nel mio caso <em>alder</em>, si sceglie l’asse di legno grezzo dal quale ricavare poi pezzi da unire. Anche in questo caso la scelta della verniciatura, se coprente o meno, gioca un ruolo determinante. Solitamente i pezzi da unire sono 2 (v. giunto vicino l’asse principale <img src="https://latex.codecogs.com/png.latex?%3E%20%7C%20%3C">). Questa è una regola da rispettare nel caso in cui la verniciatura è trasparente e si vedranno le venature del legno. In questo caso, oltre a rispettare la regola dei due pezzi, bisogna studiare bene le venature per capire quale figura può venire fuori, anche se di fatto è una mera questione di gusto.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/images/incollaggio-parti.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Unione di 2 o 3 pezzi di frassino</figcaption><p></p>
+</figure>
+</div>
+<p>Può succedere che la larghezza di partenza dell’asse grezzo non sia sufficente a coprire la sagoma del corpo (+ qualche mm di margine) ad unione completata. In questo caso si può pensare di unire un ulteriore pezzetto (pezzo 3 in figura) per raggiungere la larghezza necessaria. Questa operazione è fattibile quando il corpo va verniciato e le giunzioni verranno completamente coperte. Secondo Marco questa cosa la fa anche Fender con chitarre costosissime… 🤷 mi fido.</p>
+<p>I pezzi da giuntare vengono prima tagliati a lunghezza e poi piallati sia di costa che di faccia fino a raggiungere uno spessore di circa qualche mm in più rispetto allo spessore finale, che per le fender è pari a 45 mm (nel sistema imperiale si usa solitamente uno spessore del body di 1 pollice e 3/4, pari esattamente a 44.45 mm). In questo caso le operazioni di taglio e sgrossatura sono state eseguite con attrezzi professionali, cioè una sega a nastro, una piallatrice e una levigatrice a nastro, tuttavia le stesse lavorazioni possono essere fatte con strumenti obbisticie e manuali… “seeeee dicono tutti così”.</p>
+<p><strong><em>💡Tip</em></strong> <strong><em>da falegname Pro</em></strong></p>
+<p>Qunado si incollano del legno massello, bisogna sempre tenere a mente l’evoluzione nel tempo del legno e dei movimenti che si possono creare tra le parti incollate. Infatti, quello che si fa solitamente per stabilizzare parti giuntate è invertire le fibre in modo che gli anelli di accrescimento siano concavi/convessi in modo alternato. Anche questo aspetto influenza la scelta dei pezzi da incollare e le venature che ne vengono fuori.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/images/orientamento-anelli.png" class="img-fluid" width="825"></p>
+</section>
+<section id="colla" class="level4">
+<h4 class="anchored" data-anchor-id="colla">Colla</h4>
+<p>Un dettaglio importante che ho imparato è che nell’incollaggio dei pezzi il tipo di colla da usare è molto importante. La tipica colla vinillica (es. Vinavil) sembra che non vada bene perché una volta asciutta resta un po’ gommosa. Quella che usa Marco è una famossissima colla americana, la Titebond. Quest’utlima, a differenza dalla Vinavil è una colla alifatica e durante il “tiraggio” la colla di orienta lungo le fibre del legno risultando in un’unione molto forte, duratura, che non teme l’umidità. La versione usata Titebond è quella classica in confezione rossa.</p>
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/images/paste-E8B226BE.png" class="img-fluid" width="350"></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>build</category>
+  <category>guitar</category>
+  <category>music</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/index.html</guid>
+  <pubDate>Fri, 18 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/guitar-bluid-part1/body2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Ciao mondo!</title>
+  <dc:creator>Alessio</dc:creator>
+  <link>https://alessio-pugliese.github.io/pi_makes/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Ciao mondo! (lo so, non suona figo come <code>Hello world!</code>). In questo sito a forma di blog (spero di aver fatto la scelta giusta nel layout) voglio provare a tenere traccia delle cose, degli oggetti, reali o digitali che costruisco e documentarne il processo di creazione.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://alessio-pugliese.github.io/pi_makes/posts/welcome/welcome.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Versante nord Cima Murelle e Block House - Parco Nazionale della Majella (Abruzzo)</figcaption><p></p>
+</figure>
+</div>
+<p>Sebbene l’idea di cimentarmi con le tecnologie web c’è sempre stata, la scintilla è scattata quando ho capito che <code>R</code> (<a href="https://www.r-project.org/">R-project</a>) si apriva a quel mondo. <code>R</code> è un linguaggio di programmazione usato, direi quasi esclusivamente, in ambito accademico e che ho usato per anni nel mio lavoro di ricerca all’università e che continuo ancora ad utilizzare in Arpae. Insomma con <code>R</code> è possibile creare dashboard, siti web statici, blog, ma addirittura libri, documentazione, e altro, quindi ho detto “ora o mai più”, questo blog è infatti realizzato con <a href="https://quarto.org/">Quarto</a> interamente in Rstudio 😲.</p>
+<p>L’idea è quella di documentare le costruzioni, gli hack, le modifiche, le riparazioni, ecc. ma anche qualche cosa di più scientifico, come ad es. script, grafici, mappe, nuovi pacchetti, software realizzato da me principalemente nel mondo R e Python. Vedremo se si aggiungerà qualcos’altro per strada.</p>
+<p>Perché <strong>pi_makes</strong>?</p>
+<ol type="1">
+<li>I. mi chiama (non sempre è così cortese) “<strong>pi</strong>” perché prima lettera del mio cognome.</li>
+<li><strong>makes</strong> perché questo blog dovrebbe teoricamente essere una raccolta di mie creazioni, di oggetti, ma non posso sapere ora cosa succederà in futuro a questo sito, chissà se avrà ancora senso 🤷.</li>
+<li>perché in trigonometria ero fortissimo… viva il <img src="https://latex.codecogs.com/png.latex?%5Cpi">.</li>
+</ol>
+<p>Il senso di questo oggetto digitale è quello di tenermi impegnato in un percorso di creazione e miglioramento continuo, raccontare quello che riesco a realizzare per tenerne traccia in futuro. Un altro motivo, che sembra stupido ma probabilmente è uno dei motivi per cui tutto è iniziato, è tenermi lontano da YouTube nei weekend, impegnando il tempo in modo più produttivo, cioè scrivere.</p>
+<p>Infine, non conoscendo ancora pienamente tutte le funzioni di Quarto è probabile che migliorerò alcuni aspetti grafici del sito, o introdurrò nuove funzioni (tipo inserire commenti nei vari post). Devo dire che fin da subito l’interfaccia mi sembra moooolto figa e intuitiva. Magari, chissà, potrei fare dei tutorial su come creare un blog o sito web statico con R una volta che la mia posizione sulla curva di apprendimento si sarà allontanata dall’origine.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://alessio-pugliese.github.io/pi_makes/posts/welcome/index.html</guid>
+  <pubDate>Fri, 11 Nov 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://alessio-pugliese.github.io/pi_makes/posts/welcome/welcome.png" medium="image" type="image/png" height="108" width="144"/>
+</item>
+</channel>
+</rss>
